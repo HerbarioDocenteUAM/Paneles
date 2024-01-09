@@ -2,7 +2,7 @@
 title: Adrián García Rodríguez
 sortby: 7
 subtitle: Tragsatec, Técnico de Medio Natural
-image: https://i1.rgstatic.net/ii/profile.image/1068001944162307-1631642914872_Q512/Adrian-Garcia-Rodriguez-3.jpg
+image: https://twitter.com/AdrianGarguez/photo
 toc: false
 about:
   id: person-profile
