@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://se-bota.github.io/sebota/
+        href: https://github.com/se-bota/sebota-I
         text: Web general de SEBOTA
     style: docked
     contents:
