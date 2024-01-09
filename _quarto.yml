@@ -10,8 +10,8 @@ website:
     pinned: true
     align: center
     tools:
-      # - icon: github
-      - href: https://se-bota.github.io/sebota/
+      - icon: github
+        href: https://se-bota.github.io/sebota/
         text: Web general de SEBOTA
     style: docked
     contents:
@@ -23,6 +23,8 @@ website:
         text: Materiales
       - href: participantes.qmd
         text: Participantes
+      - href: https://se-bota.github.io/sebota/
+        text: Página general de SEBOTA
 
 
 
