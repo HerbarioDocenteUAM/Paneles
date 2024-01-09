@@ -1,1 +1,1 @@
-Sitemap: https://github.com/se-bota/sebota/sitemap.xml
+Sitemap: https://github.com/se-bota/sebota-I/sitemap.xml
