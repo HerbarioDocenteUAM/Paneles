@@ -12,7 +12,7 @@ website:
     tools:
       - icon: github
         href: https://github.com/iramosgutierrez/paneles-prueba
-        text: Herbario Docente UAM
+        text: GitHub Herbario Docente UAM
     style: docked
     contents:
       - href: index.qmd

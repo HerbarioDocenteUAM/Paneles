@@ -4,7 +4,7 @@ listing:
   - id: Paneles
     contents: "paneles/*.qmd"
     type: grid
-    image-height: 250px
+    image-height: 100px
     grid-columns: 5
     sort: sortby
     fields: [image, title, subtitle, author]
@@ -12,7 +12,7 @@ listing:
     
 ---
 
-:::{#equipo}
+:::{#paneles}
 :::
 
 

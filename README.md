@@ -1,5 +1,3 @@
-# Repositorio de las salidas de SEBOTA
+# Proyeto Innovación Docente Paneles de Flora
 
-[Web General de SEBOTA](https://se-bota.github.io/sebota/)
 
-[Web de la primera edición](https://se-bota.github.io/sebota-I/)
