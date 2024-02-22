@@ -3,34 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "SEBOTA I Edición"
+  title: "Paneles Flora UAM"
   sidebar:
     background: primary
-    logo: "SEBOTA_logo.png"
+    logo: "leaf.png"
     pinned: true
     align: center
     tools:
       - icon: github
-        href: https://github.com/se-bota/sebota-I
-        text: Web general de SEBOTA
+        href: https://github.com/iramosgutierrez/paneles-prueba
+        text: Herbario Docente UAM
     style: docked
     contents:
       - href: index.qmd
         text: Inicio
-      - href: schedule.qmd
-        text: Calendario
-      - href: materials.qmd
-        text: Materiales
-      - href: participantes.qmd
-        text: Participantes
-      - href: https://se-bota.github.io/sebota/
-        text: Página general de SEBOTA
+      - href: paneles.qmd
+        text: Paneles
+      - href: https://www.uam.es/Ciencias/Botánica/1446766816493.htm?language=es
+        text: Página de la unidad de Botánica
 
 
 
 format:
   html:
-    theme: minty
+    theme: spacelab
     # css: styles.css
     toc: true
 

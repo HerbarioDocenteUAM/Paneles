@@ -1,0 +1,21 @@
+---
+title: Taxus baccata
+sortby: 1
+subtitle: Taxaceae
+toc: false
+about:
+  id: person-profile
+  template: marquee
+ 
+---
+
+:::{#person-profile}
+:::
+
+
+![Ficha Taxus](paneles_Taxus baccata_TAXACEAE.png){width=95%}
+
+<iframe width="100%" height="600" src="paneles_Taxus baccata_TAXACEAE.pdf"></iframe>
+
+
+

@@ -1,0 +1,19 @@
+---
+# title: "Paneles"
+listing:
+  - id: Paneles
+    contents: "paneles/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 5
+    sort: sortby
+    fields: [image, title, subtitle, author]
+    grid-item-align: center
+    
+---
+
+:::{#equipo}
+:::
+
+
+

@@ -1,17 +1,10 @@
 ---
-title: "SEBOTA I Edición"
+title: "WEB DE PRUEBA DE PANELES"
 ---
 
-En esta página web puedes encontrar información acerca de la primera edición de las salidas de SEBOTA.
+En esta página web puedes encontrar información acerca de los paneles de flora.
 
-### ![](SEBOTA_Saliencia.png)Para cualquier duda, no dudéis en contactar con nosotros!
-
-##### Ignacio Ramos Gutiérrez ([ig.ramosgutierrez\@gmail.com](mailto:ig.ramosgutierrez@gmail.com))
-
-##### José Ignacio Márquez-Corro ([jimarcorr\@gmail.com](mailto:jimarcorr@gmail.com))
-
-##### Sara Martín Hernanz ([sara.martin.hernanz\@gmail.com](mailto:sara.martin.hernanz@gmail.com))
+### ![](leaf.png)Para cualquier duda, no dudéis en contactar con nosotros!
 
 
-Echa un ojo a la nota publicada en Conservación Vegetal
-[SEBOTA: un encuentro para conocer de cerca la diversidad de nuestra flora](https://conservacionvegetal.org/wp-content/uploads/2023/12/CONSERVACION-27_OK.pdf#page=50)
+

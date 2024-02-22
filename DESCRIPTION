@@ -1,11 +1,11 @@
-Title: SEBOTA I Edición
+Title: Web Paneles de Flora
 Version: 0.1.0
 Authors@R: c(
     person("Ignacio", "Ramos-Gutiérrez", , "ignacio.ramosgutierrez@uam.es", role = c("aut", "cre")),
-    person("Borja", ", "Jiménez Alfar", role = "aut"),
-    person("Jose Ignacio", ", "Márquez-Corro", role = "aut"),
-    person("Sara", "Martín-Hernanz", role = "aut")
+    person("Julia", ", "G. de Aledo", role = "aut"),
+    person("Nagore", ", "García Medina", role = "aut"),
+    person("Juan Antonio", "Calleja Alarcón", role = "aut")
   )
-Description: Página web de la salida de SEBOTA (1ª Edición).
+Description: Página web Paneles de Flora UAM.
 License: GPL-3
 Encoding: UTF-8
