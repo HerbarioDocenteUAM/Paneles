@@ -15,4 +15,4 @@ about:
 
 ![Isoetes_sp.](paneles/Isoetes_sp..png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Isoetes_sp._ISOETACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Isoetes_sp..pdf"></iframe>

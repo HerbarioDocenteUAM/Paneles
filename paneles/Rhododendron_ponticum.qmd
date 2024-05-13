@@ -15,4 +15,4 @@ about:
 
 ![Rhododendron_ponticum](paneles/Rhododendron_ponticum.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Rhododendron_ponticum_ERICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Rhododendron_ponticum.pdf"></iframe>

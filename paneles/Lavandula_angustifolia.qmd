@@ -15,4 +15,4 @@ about:
 
 ![Lavandula_angustifolia](paneles/Lavandula_angustifolia.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Lavandula_angustifolia_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Lavandula_angustifolia.pdf"></iframe>

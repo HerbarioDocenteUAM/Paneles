@@ -15,4 +15,4 @@ about:
 
 ![Arctostaphyllos_uva-ursi](paneles/Arctostaphyllos_uva-ursi.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Arctostaphyllos_uva-ursi_ERICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Arctostaphyllos_uva-ursi.pdf"></iframe>

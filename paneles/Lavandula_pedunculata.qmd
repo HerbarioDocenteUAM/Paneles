@@ -15,4 +15,4 @@ about:
 
 ![Lavandula_pedunculata](paneles/Lavandula_pedunculata.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Lavandula_pedunculata_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Lavandula_pedunculata.pdf"></iframe>

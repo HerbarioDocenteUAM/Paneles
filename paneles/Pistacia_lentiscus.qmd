@@ -15,4 +15,4 @@ about:
 
 ![Pistacia_lentiscus](paneles/Pistacia_lentiscus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Pistacia_lentiscus_ANACARDIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Pistacia_lentiscus.pdf"></iframe>

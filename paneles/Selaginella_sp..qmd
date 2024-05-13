@@ -15,4 +15,4 @@ about:
 
 ![Selaginella_sp.](paneles/Selaginella_sp..png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Selaginella_sp._SELAGINELLACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Selaginella_sp..pdf"></iframe>

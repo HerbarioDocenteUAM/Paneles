@@ -15,4 +15,4 @@ about:
 
 ![Prunus_padus](paneles/Prunus_padus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Prunus_padus_ROSACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Prunus_padus.pdf"></iframe>

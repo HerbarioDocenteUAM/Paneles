@@ -15,4 +15,4 @@ about:
 
 ![Paliurus_spina_christi](paneles/Paliurus_spina_christi.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Paliurus_spina_christi_RHAMNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Paliurus_spina_christi.pdf"></iframe>

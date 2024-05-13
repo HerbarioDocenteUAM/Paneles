@@ -15,4 +15,4 @@ about:
 
 ![Cistus_libanotis](paneles/Cistus_libanotis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Cistus_libanotis_CISTACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Cistus_libanotis.pdf"></iframe>

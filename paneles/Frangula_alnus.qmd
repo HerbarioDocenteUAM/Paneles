@@ -15,4 +15,4 @@ about:
 
 ![Frangula_alnus](paneles/Frangula_alnus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Frangula_alnus_RHAMNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Frangula_alnus.pdf"></iframe>

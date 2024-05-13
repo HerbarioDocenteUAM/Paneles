@@ -15,4 +15,4 @@ about:
 
 ![Quercus_rotundifolia](paneles/Quercus_rotundifolia.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Quercus_rotundifolia_FAGACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Quercus_rotundifolia.pdf"></iframe>

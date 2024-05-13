@@ -15,4 +15,4 @@ about:
 
 ![Calicotome_villosa](paneles/Calicotome_villosa.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Calicotome_villosa_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Calicotome_villosa.pdf"></iframe>

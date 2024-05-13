@@ -15,4 +15,4 @@ about:
 
 ![Ulmus_glabra](paneles/Ulmus_glabra.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Ulmus_glabra_ULMACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Ulmus_glabra.pdf"></iframe>

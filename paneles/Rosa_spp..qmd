@@ -15,4 +15,4 @@ about:
 
 ![Rosa_spp.](paneles/Rosa_spp..png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Rosa_spp._ROSACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Rosa_spp..pdf"></iframe>

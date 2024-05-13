@@ -15,4 +15,4 @@ about:
 
 ![Rhamnus_catartica](paneles/Rhamnus_catartica.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Rhamnus_catartica_RHAMNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Rhamnus_catartica.pdf"></iframe>

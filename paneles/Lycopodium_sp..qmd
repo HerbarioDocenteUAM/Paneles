@@ -15,4 +15,4 @@ about:
 
 ![Lycopodium_sp.](paneles/Lycopodium_sp..png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Lycopodium_sp._LYCOPODIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Lycopodium_sp..pdf"></iframe>

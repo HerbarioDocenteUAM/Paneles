@@ -15,4 +15,4 @@ about:
 
 ![Celtis_australis](paneles/Celtis_australis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Celtis_australis_CANNABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Celtis_australis.pdf"></iframe>

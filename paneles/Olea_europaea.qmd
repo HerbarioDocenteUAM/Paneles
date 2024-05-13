@@ -15,4 +15,4 @@ about:
 
 ![Olea_europaea](paneles/Olea_europaea.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Olea_europaea_OLEACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Olea_europaea.pdf"></iframe>

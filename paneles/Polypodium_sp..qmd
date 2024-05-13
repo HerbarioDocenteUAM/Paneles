@@ -15,4 +15,4 @@ about:
 
 ![Polypodium_sp.](paneles/Polypodium_sp..png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Polypodium_sp._POLYPODIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Polypodium_sp..pdf"></iframe>

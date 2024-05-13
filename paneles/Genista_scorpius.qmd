@@ -15,4 +15,4 @@ about:
 
 ![Genista_scorpius](paneles/Genista_scorpius.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Genista_scorpius_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Genista_scorpius.pdf"></iframe>

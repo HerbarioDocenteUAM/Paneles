@@ -15,4 +15,4 @@ about:
 
 ![Rhamnus_alaternus](paneles/Rhamnus_alaternus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Rhamnus_alaternus_RHAMNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Rhamnus_alaternus.pdf"></iframe>

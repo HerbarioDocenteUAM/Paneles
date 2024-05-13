@@ -15,4 +15,4 @@ about:
 
 ![Euonymus_europaeus](paneles/Euonymus_europaeus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Euonymus_europaeus_CELASTRACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Euonymus_europaeus.pdf"></iframe>

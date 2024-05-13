@@ -15,4 +15,4 @@ about:
 
 ![Arbutus_unedo](paneles/Arbutus_unedo.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Arbutus_unedo_ERICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Arbutus_unedo.pdf"></iframe>

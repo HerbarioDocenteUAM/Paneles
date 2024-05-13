@@ -15,4 +15,4 @@ about:
 
 ![Juniperus_communis](paneles/Juniperus_communis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Juniperus_communis_CUPRESACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Juniperus_communis.pdf"></iframe>

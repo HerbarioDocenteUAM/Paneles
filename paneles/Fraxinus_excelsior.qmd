@@ -15,4 +15,4 @@ about:
 
 ![Fraxinus_excelsior](paneles/Fraxinus_excelsior.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Fraxinus_excelsior_OLEACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Fraxinus_excelsior.pdf"></iframe>

@@ -15,4 +15,4 @@ about:
 
 ![Thymus_zygis](paneles/Thymus_zygis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Thymus_zygis_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Thymus_zygis.pdf"></iframe>

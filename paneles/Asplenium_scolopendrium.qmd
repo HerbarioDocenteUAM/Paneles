@@ -15,4 +15,4 @@ about:
 
 ![Asplenium_scolopendrium](paneles/Asplenium_scolopendrium.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Asplenium_scolopendrium_ASPLENIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Asplenium_scolopendrium.pdf"></iframe>

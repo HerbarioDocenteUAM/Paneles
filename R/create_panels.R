@@ -23,7 +23,7 @@ paneles$qr <- paste0("https://herbariodocenteuam.github.io/Paneles/paneles/",gsu
 tempfile()
 
 create_panel(
-  data = paneles[1:2,],
+  data = paneles,
   path = "labeleR_output",
   filename = "paneles",
   qr = "qr",

@@ -15,4 +15,4 @@ about:
 
 ![Tamarix_sp.](paneles/Tamarix_sp..png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Tamarix_sp._TAMARICAEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Tamarix_sp..pdf"></iframe>

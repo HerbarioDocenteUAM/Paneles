@@ -15,4 +15,4 @@ about:
 
 ![Prunus_mahaleb](paneles/Prunus_mahaleb.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Prunus_mahaleb_ROSACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Prunus_mahaleb.pdf"></iframe>

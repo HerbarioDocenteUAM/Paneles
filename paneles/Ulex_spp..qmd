@@ -15,4 +15,4 @@ about:
 
 ![Ulex_spp.](paneles/Ulex_spp..png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Ulex_spp._FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Ulex_spp..pdf"></iframe>

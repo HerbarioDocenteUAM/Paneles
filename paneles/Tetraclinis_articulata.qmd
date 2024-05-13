@@ -15,4 +15,4 @@ about:
 
 ![Tetraclinis_articulata](paneles/Tetraclinis_articulata.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Tetraclinis_articulata_CUPRESACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Tetraclinis_articulata.pdf"></iframe>

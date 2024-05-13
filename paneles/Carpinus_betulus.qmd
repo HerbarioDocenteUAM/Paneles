@@ -15,4 +15,4 @@ about:
 
 ![Carpinus_betulus](paneles/Carpinus_betulus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Carpinus_betulus_BETULACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Carpinus_betulus.pdf"></iframe>

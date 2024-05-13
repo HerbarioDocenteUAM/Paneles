@@ -15,4 +15,4 @@ about:
 
 ![Alnus_glutinosa](paneles/Alnus_glutinosa.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Alnus_glutinosa_BETULACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Alnus_glutinosa.pdf"></iframe>

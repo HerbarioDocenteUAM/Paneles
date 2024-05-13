@@ -15,4 +15,4 @@ about:
 
 ![Betula_alba](paneles/Betula_alba.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Betula_alba_BETULACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Betula_alba.pdf"></iframe>

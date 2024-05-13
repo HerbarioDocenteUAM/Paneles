@@ -15,4 +15,4 @@ about:
 
 ![Daboecia_cantabrica](paneles/Daboecia_cantabrica.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Daboecia_cantabrica_ERICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Daboecia_cantabrica.pdf"></iframe>

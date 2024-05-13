@@ -15,4 +15,4 @@ about:
 
 ![Populus_alba](paneles/Populus_alba.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Populus_alba_SALICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Populus_alba.pdf"></iframe>

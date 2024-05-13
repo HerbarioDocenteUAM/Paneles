@@ -15,4 +15,4 @@ about:
 
 ![Erica_vagans](paneles/Erica_vagans.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Erica_vagans_ERICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Erica_vagans.pdf"></iframe>

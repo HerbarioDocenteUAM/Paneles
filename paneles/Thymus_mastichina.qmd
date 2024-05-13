@@ -15,4 +15,4 @@ about:
 
 ![Thymus_mastichina](paneles/Thymus_mastichina.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Thymus_mastichina_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Thymus_mastichina.pdf"></iframe>

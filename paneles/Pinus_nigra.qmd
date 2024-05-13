@@ -15,4 +15,4 @@ about:
 
 ![Pinus_nigra](paneles/Pinus_nigra.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Pinus_nigra_PINACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Pinus_nigra.pdf"></iframe>

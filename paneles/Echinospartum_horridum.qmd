@@ -15,4 +15,4 @@ about:
 
 ![Echinospartum_horridum](paneles/Echinospartum_horridum.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Echinospartum_horridum_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Echinospartum_horridum.pdf"></iframe>

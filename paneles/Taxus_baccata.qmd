@@ -15,4 +15,4 @@ about:
 
 ![Taxus_baccata](paneles/Taxus_baccata.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Taxus_baccata_TAXACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Taxus_baccata.pdf"></iframe>

@@ -15,4 +15,4 @@ about:
 
 ![Lavandula_multifida](paneles/Lavandula_multifida.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Lavandula_multifida_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Lavandula_multifida.pdf"></iframe>

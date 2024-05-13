@@ -15,4 +15,4 @@ about:
 
 ![Laurus_nobilis](paneles/Laurus_nobilis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Laurus_nobilis_LAURACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Laurus_nobilis.pdf"></iframe>

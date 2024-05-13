@@ -15,4 +15,4 @@ about:
 
 ![Phlomis_lychnitis](paneles/Phlomis_lychnitis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Phlomis_lychnitis_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Phlomis_lychnitis.pdf"></iframe>

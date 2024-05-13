@@ -15,4 +15,4 @@ about:
 
 ![Cytisus_scoparius](paneles/Cytisus_scoparius.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Cytisus_scoparius_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Cytisus_scoparius.pdf"></iframe>

@@ -15,4 +15,4 @@ about:
 
 ![Acer_pseudoplatanus](paneles/Acer_pseudoplatanus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Acer_pseudoplatanus_ACERACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Acer_pseudoplatanus.pdf"></iframe>

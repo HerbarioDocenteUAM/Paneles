@@ -15,4 +15,4 @@ about:
 
 ![Erica_cinerea](paneles/Erica_cinerea.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Erica_cinerea_ERICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Erica_cinerea.pdf"></iframe>

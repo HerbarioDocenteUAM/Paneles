@@ -15,4 +15,4 @@ about:
 
 ![Rhamnus_lycioides](paneles/Rhamnus_lycioides.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Rhamnus_lycioides_RHAMNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Rhamnus_lycioides.pdf"></iframe>

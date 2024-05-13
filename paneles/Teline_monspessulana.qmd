@@ -15,4 +15,4 @@ about:
 
 ![Teline_monspessulana](paneles/Teline_monspessulana.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Teline_monspessulana_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Teline_monspessulana.pdf"></iframe>

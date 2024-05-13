@@ -15,4 +15,4 @@ about:
 
 ![Phillyrea_latifolia](paneles/Phillyrea_latifolia.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Phillyrea_latifolia_OLEACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Phillyrea_latifolia.pdf"></iframe>

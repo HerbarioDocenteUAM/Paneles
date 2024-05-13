@@ -15,4 +15,4 @@ about:
 
 ![Adenocarpus_hispanicus](paneles/Adenocarpus_hispanicus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Adenocarpus_hispanicus_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Adenocarpus_hispanicus.pdf"></iframe>

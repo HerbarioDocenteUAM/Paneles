@@ -15,4 +15,4 @@ about:
 
 ![Chamaespartium_tridentatum](paneles/Chamaespartium_tridentatum.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Chamaespartium_tridentatum_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Chamaespartium_tridentatum.pdf"></iframe>

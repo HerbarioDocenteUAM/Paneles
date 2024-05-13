@@ -15,4 +15,4 @@ about:
 
 ![Calluna_vulgaris](paneles/Calluna_vulgaris.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Calluna_vulgaris_ERICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Calluna_vulgaris.pdf"></iframe>

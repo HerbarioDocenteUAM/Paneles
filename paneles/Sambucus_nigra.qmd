@@ -15,4 +15,4 @@ about:
 
 ![Sambucus_nigra](paneles/Sambucus_nigra.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Sambucus_nigra_VIBURNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Sambucus_nigra.pdf"></iframe>

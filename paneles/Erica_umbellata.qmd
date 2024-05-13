@@ -15,4 +15,4 @@ about:
 
 ![Erica_umbellata](paneles/Erica_umbellata.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Erica_umbellata_ERICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Erica_umbellata.pdf"></iframe>

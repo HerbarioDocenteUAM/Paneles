@@ -15,4 +15,4 @@ about:
 
 ![Prunus_avium](paneles/Prunus_avium.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Prunus_avium_ROSACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Prunus_avium.pdf"></iframe>

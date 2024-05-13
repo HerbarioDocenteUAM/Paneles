@@ -15,4 +15,4 @@ about:
 
 ![Ziziphus_lotus](paneles/Ziziphus_lotus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Ziziphus_lotus_RHAMNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Ziziphus_lotus.pdf"></iframe>

@@ -15,4 +15,4 @@ about:
 
 ![Pistacia_terebinthus](paneles/Pistacia_terebinthus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Pistacia_terebinthus_ANACARDIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Pistacia_terebinthus.pdf"></iframe>

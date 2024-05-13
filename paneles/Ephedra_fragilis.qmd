@@ -15,4 +15,4 @@ about:
 
 ![Ephedra_fragilis](paneles/Ephedra_fragilis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Ephedra_fragilis_EPHEDRACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Ephedra_fragilis.pdf"></iframe>

@@ -15,4 +15,4 @@ about:
 
 ![Sorbus_torminalis](paneles/Sorbus_torminalis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Sorbus_torminalis_ROSACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Sorbus_torminalis.pdf"></iframe>

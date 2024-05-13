@@ -15,4 +15,4 @@ about:
 
 ![Tilia_cordata](paneles/Tilia_cordata.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Tilia_cordata_TILIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Tilia_cordata.pdf"></iframe>

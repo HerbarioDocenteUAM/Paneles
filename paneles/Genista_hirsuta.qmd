@@ -15,4 +15,4 @@ about:
 
 ![Genista_hirsuta](paneles/Genista_hirsuta.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Genista_hirsuta_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Genista_hirsuta.pdf"></iframe>

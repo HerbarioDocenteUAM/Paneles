@@ -15,4 +15,4 @@ about:
 
 ![Juniperus_phoenicea](paneles/Juniperus_phoenicea.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Juniperus_phoenicea_CUPRESACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Juniperus_phoenicea.pdf"></iframe>

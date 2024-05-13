@@ -15,4 +15,4 @@ about:
 
 ![Acer_monspessulanum](paneles/Acer_monspessulanum.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Acer_monspessulanum_ACERACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Acer_monspessulanum.pdf"></iframe>

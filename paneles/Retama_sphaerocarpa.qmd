@@ -15,4 +15,4 @@ about:
 
 ![Retama_sphaerocarpa](paneles/Retama_sphaerocarpa.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Retama_sphaerocarpa_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/Retama_sphaerocarpa.pdf"></iframe>
