@@ -1,0 +1,18 @@
+---
+title: Sambucus nigra
+sortby: 140
+subtitle: Viburnaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Sambucus nigra](paneles/Sambucus nigra.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Sambucus nigra_VIBURNACEAE.pdf"></iframe>

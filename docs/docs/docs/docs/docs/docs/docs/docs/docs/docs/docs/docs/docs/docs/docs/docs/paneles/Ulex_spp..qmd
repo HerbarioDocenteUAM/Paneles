@@ -1,0 +1,18 @@
+---
+title: Ulex spp.
+sortby: 158
+subtitle: Fabaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Ulex spp.](paneles/Ulex spp..jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Ulex spp._FABACEAE.pdf"></iframe>

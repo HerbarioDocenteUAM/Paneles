@@ -1,0 +1,18 @@
+---
+title: Quercus ilex
+sortby: 116
+subtitle: Fagaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Quercus ilex](paneles/Quercus ilex.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Quercus ilex_FAGACEAE.pdf"></iframe>

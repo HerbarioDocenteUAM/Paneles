@@ -1,0 +1,18 @@
+---
+title: Calicotome spinosa
+sortby: 20
+subtitle: Fabaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Calicotome spinosa](paneles/Calicotome spinosa.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Calicotome spinosa_FABACEAE.pdf"></iframe>

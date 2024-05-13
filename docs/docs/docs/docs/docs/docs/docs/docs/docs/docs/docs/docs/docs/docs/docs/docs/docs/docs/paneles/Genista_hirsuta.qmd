@@ -1,0 +1,18 @@
+---
+title: Genista hirsuta
+sortby: 68
+subtitle: Fabaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Genista hirsuta](paneles/Genista hirsuta.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Genista hirsuta_FABACEAE.pdf"></iframe>

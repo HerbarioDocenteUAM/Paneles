@@ -1,0 +1,18 @@
+---
+title: Buxus sempervirens
+sortby: 19
+subtitle: Buxaceas
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Buxus sempervirens](paneles/Buxus sempervirens.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Buxus sempervirens_BUXACEAS.pdf"></iframe>

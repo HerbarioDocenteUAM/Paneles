@@ -1,0 +1,18 @@
+---
+title: Ilex aquifolium
+sortby: 70
+subtitle: Aquifoliaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Ilex aquifolium](paneles/Ilex aquifolium.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Ilex aquifolium_AQUIFOLIACEAE.pdf"></iframe>

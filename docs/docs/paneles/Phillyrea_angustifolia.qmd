@@ -1,0 +1,18 @@
+---
+title: Phillyrea angustifolia
+sortby: 92
+subtitle: Oleaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Phillyrea angustifolia](paneles/Phillyrea angustifolia.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Phillyrea angustifolia_OLEACEAE.pdf"></iframe>

@@ -1,0 +1,18 @@
+---
+title: Thymus vulgaris
+sortby: 154
+subtitle: Lamiaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Thymus vulgaris](paneles/Thymus vulgaris.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Thymus vulgaris_LAMIACEAE.pdf"></iframe>

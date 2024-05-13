@@ -1,0 +1,18 @@
+---
+title: Rosa spp.
+sortby: 132
+subtitle: Rosaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Rosa spp.](paneles/Rosa spp..jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Rosa spp._ROSACEAE.pdf"></iframe>

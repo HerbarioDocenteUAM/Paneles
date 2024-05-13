@@ -1,0 +1,18 @@
+---
+title: Prunus lusitanica
+sortby: 109
+subtitle: Rosaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Prunus lusitanica](paneles/Prunus lusitanica.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Prunus lusitanica_ROSACEAE.pdf"></iframe>

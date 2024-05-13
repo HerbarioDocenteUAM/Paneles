@@ -1,0 +1,18 @@
+---
+title: Rhamnus lycioides
+sortby: 128
+subtitle: Rhamnaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Rhamnus lycioides](paneles/Rhamnus lycioides.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Rhamnus lycioides_RHAMNACEAE.pdf"></iframe>

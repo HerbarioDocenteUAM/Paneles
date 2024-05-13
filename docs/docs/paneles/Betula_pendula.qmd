@@ -1,0 +1,18 @@
+---
+title: Betula pendula
+sortby: 18
+subtitle: Betulaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Betula pendula](paneles/Betula pendula.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Betula pendula_BETULACEAE.pdf"></iframe>

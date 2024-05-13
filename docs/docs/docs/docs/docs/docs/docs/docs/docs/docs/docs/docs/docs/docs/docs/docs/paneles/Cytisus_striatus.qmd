@@ -1,0 +1,18 @@
+---
+title: Cytisus striatus
+sortby: 45
+subtitle: Fabaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Cytisus striatus](paneles/Cytisus striatus.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Cytisus striatus_FABACEAE.pdf"></iframe>

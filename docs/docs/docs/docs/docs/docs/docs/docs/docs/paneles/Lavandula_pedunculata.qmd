@@ -1,0 +1,18 @@
+---
+title: Lavandula pedunculata
+sortby: 82
+subtitle: Lamiaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Lavandula pedunculata](paneles/Lavandula pedunculata.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Lavandula pedunculata_LAMIACEAE.pdf"></iframe>

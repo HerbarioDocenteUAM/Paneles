@@ -1,0 +1,18 @@
+---
+title: Lavandula viridis
+sortby: 84
+subtitle: Lamiaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Lavandula viridis](paneles/Lavandula viridis.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Lavandula viridis_LAMIACEAE.pdf"></iframe>

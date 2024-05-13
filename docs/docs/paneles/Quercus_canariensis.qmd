@@ -1,0 +1,18 @@
+---
+title: Quercus canariensis
+sortby: 113
+subtitle: Fagaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Quercus canariensis](paneles/Quercus canariensis.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Quercus canariensis_FAGACEAE.pdf"></iframe>
