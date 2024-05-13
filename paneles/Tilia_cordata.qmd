@@ -1,6 +1,6 @@
 ---
-title: Tilia cordata
-sortby: 156
+title: Tilia_cordata
+sortby: 
 subtitle: Tiliaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Tilia cordata](paneles/Tilia cordata.png){width=95%}
+![Tilia_cordata](paneles/Tilia_cordata.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Tilia cordata_TILIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Tilia_cordata_TILIACEAE.pdf"></iframe>

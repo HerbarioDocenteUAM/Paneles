@@ -1,6 +1,6 @@
 ---
-title: Chamaespartium tridentatum
-sortby: 28
+title: Chamaespartium_tridentatum
+sortby: 
 subtitle: Fabaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Chamaespartium tridentatum](paneles/Chamaespartium tridentatum.png){width=95%}
+![Chamaespartium_tridentatum](paneles/Chamaespartium_tridentatum.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Chamaespartium tridentatum_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Chamaespartium_tridentatum_FABACEAE.pdf"></iframe>

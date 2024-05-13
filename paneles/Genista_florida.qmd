@@ -1,6 +1,6 @@
 ---
-title: Genista florida
-sortby: 67
+title: Genista_florida
+sortby: 
 subtitle: Fabaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Genista florida](paneles/Genista florida.png){width=95%}
+![Genista_florida](paneles/Genista_florida.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Genista florida_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Genista_florida_FABACEAE.pdf"></iframe>

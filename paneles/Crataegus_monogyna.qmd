@@ -1,6 +1,6 @@
 ---
-title: Crataegus monogyna
-sortby: 41
+title: Crataegus_monogyna
+sortby: 
 subtitle: Rosaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Crataegus monogyna](paneles/Crataegus monogyna.png){width=95%}
+![Crataegus_monogyna](paneles/Crataegus_monogyna.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Crataegus monogyna_ROSACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Crataegus_monogyna_ROSACEAE.pdf"></iframe>

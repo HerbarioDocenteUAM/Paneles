@@ -1,6 +1,6 @@
 ---
-title: Retama monosperma
-sortby: 124
+title: Retama_monosperma
+sortby: 
 subtitle: Fabaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Retama monosperma](paneles/Retama monosperma.png){width=95%}
+![Retama_monosperma](paneles/Retama_monosperma.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Retama monosperma_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Retama_monosperma_FABACEAE.pdf"></iframe>

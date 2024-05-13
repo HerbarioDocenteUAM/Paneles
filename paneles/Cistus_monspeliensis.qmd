@@ -1,6 +1,6 @@
 ---
-title: Cistus monspeliensis
-sortby: 35
+title: Cistus_monspeliensis
+sortby: 
 subtitle: Cistaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cistus monspeliensis](paneles/Cistus monspeliensis.png){width=95%}
+![Cistus_monspeliensis](paneles/Cistus_monspeliensis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Cistus monspeliensis_CISTACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Cistus_monspeliensis_CISTACEAE.pdf"></iframe>

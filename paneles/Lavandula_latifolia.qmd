@@ -1,6 +1,6 @@
 ---
-title: Lavandula latifolia
-sortby: 80
+title: Lavandula_latifolia
+sortby: 
 subtitle: Lamiaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Lavandula latifolia](paneles/Lavandula latifolia.png){width=95%}
+![Lavandula_latifolia](paneles/Lavandula_latifolia.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Lavandula latifolia_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Lavandula_latifolia_LAMIACEAE.pdf"></iframe>

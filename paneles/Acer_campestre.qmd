@@ -1,6 +1,6 @@
 ---
-title: Acer campestre
-sortby: 3
+title: Acer_campestre
+sortby: 
 subtitle: Aceraceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Acer campestre](paneles/Acer campestre.png){width=95%}
+![Acer_campestre](paneles/Acer_campestre.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Acer campestre_ACERACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Acer_campestre_ACERACEAE.pdf"></iframe>

@@ -1,6 +1,6 @@
 ---
-title: Thymus zygis
-sortby: 155
+title: Thymus_zygis
+sortby: 
 subtitle: Lamiaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Thymus zygis](paneles/Thymus zygis.png){width=95%}
+![Thymus_zygis](paneles/Thymus_zygis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Thymus zygis_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Thymus_zygis_LAMIACEAE.pdf"></iframe>

@@ -1,6 +1,6 @@
 ---
-title: Salvia lavandulifolia
-sortby: 139
+title: Salvia_lavandulifolia
+sortby: 
 subtitle: Lamiaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Salvia lavandulifolia](paneles/Salvia lavandulifolia.png){width=95%}
+![Salvia_lavandulifolia](paneles/Salvia_lavandulifolia.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Salvia lavandulifolia_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Salvia_lavandulifolia_LAMIACEAE.pdf"></iframe>

@@ -1,6 +1,6 @@
 ---
-title: Acer monspessulanum
-sortby: 4
+title: Acer_monspessulanum
+sortby: 
 subtitle: Aceraceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Acer monspessulanum](paneles/Acer monspessulanum.png){width=95%}
+![Acer_monspessulanum](paneles/Acer_monspessulanum.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Acer monspessulanum_ACERACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Acer_monspessulanum_ACERACEAE.pdf"></iframe>

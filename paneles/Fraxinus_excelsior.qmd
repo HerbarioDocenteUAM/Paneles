@@ -1,6 +1,6 @@
 ---
-title: Fraxinus excelsior
-sortby: 65
+title: Fraxinus_excelsior
+sortby: 
 subtitle: Oleaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Fraxinus excelsior](paneles/Fraxinus excelsior.png){width=95%}
+![Fraxinus_excelsior](paneles/Fraxinus_excelsior.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Fraxinus excelsior_OLEACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Fraxinus_excelsior_OLEACEAE.pdf"></iframe>

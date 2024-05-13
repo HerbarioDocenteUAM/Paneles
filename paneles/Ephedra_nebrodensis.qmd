@@ -1,6 +1,6 @@
 ---
-title: Ephedra nebrodensis
-sortby: 49
+title: Ephedra_nebrodensis
+sortby: 
 subtitle: Ephedraceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Ephedra nebrodensis](paneles/Ephedra nebrodensis.png){width=95%}
+![Ephedra_nebrodensis](paneles/Ephedra_nebrodensis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Ephedra nebrodensis_EPHEDRACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Ephedra_nebrodensis_EPHEDRACEAE.pdf"></iframe>

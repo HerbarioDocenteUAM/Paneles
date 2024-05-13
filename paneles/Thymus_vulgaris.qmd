@@ -1,6 +1,6 @@
 ---
-title: Thymus vulgaris
-sortby: 154
+title: Thymus_vulgaris
+sortby: 
 subtitle: Lamiaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Thymus vulgaris](paneles/Thymus vulgaris.png){width=95%}
+![Thymus_vulgaris](paneles/Thymus_vulgaris.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Thymus vulgaris_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Thymus_vulgaris_LAMIACEAE.pdf"></iframe>

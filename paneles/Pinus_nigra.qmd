@@ -1,6 +1,6 @@
 ---
-title: Pinus nigra
-sortby: 97
+title: Pinus_nigra
+sortby: 
 subtitle: Pinaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Pinus nigra](paneles/Pinus nigra.png){width=95%}
+![Pinus_nigra](paneles/Pinus_nigra.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Pinus nigra_PINACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Pinus_nigra_PINACEAE.pdf"></iframe>

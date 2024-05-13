@@ -1,6 +1,6 @@
 ---
-title: Cytisus multiflorus
-sortby: 42
+title: Cytisus_multiflorus
+sortby: 
 subtitle: Fabaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cytisus multiflorus](paneles/Cytisus multiflorus.png){width=95%}
+![Cytisus_multiflorus](paneles/Cytisus_multiflorus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Cytisus multiflorus_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Cytisus_multiflorus_FABACEAE.pdf"></iframe>

@@ -1,6 +1,6 @@
 ---
-title: Tetraclinis articulata
-sortby: 152
+title: Tetraclinis_articulata
+sortby: 
 subtitle: Cupresaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Tetraclinis articulata](paneles/Tetraclinis articulata.png){width=95%}
+![Tetraclinis_articulata](paneles/Tetraclinis_articulata.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Tetraclinis articulata_CUPRESACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Tetraclinis_articulata_CUPRESACEAE.pdf"></iframe>

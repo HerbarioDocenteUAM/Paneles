@@ -1,6 +1,6 @@
 ---
-title: Quercus rotundifolia
-sortby: 122
+title: Quercus_rotundifolia
+sortby: 
 subtitle: Fagaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Quercus rotundifolia](paneles/Quercus rotundifolia.png){width=95%}
+![Quercus_rotundifolia](paneles/Quercus_rotundifolia.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Quercus rotundifolia_FAGACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Quercus_rotundifolia_FAGACEAE.pdf"></iframe>

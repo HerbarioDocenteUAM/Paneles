@@ -224,8 +224,8 @@ create_panel <- function(data = data,
   data <- as.data.frame(data) ## to exploit drop = TRUE when selecting cols below
 
   for (i in 1:nrow(data)) {
-    out.name <- filename
-    out.name <- paste0(out.name, "_", data[i, taxon.column], "_",gsub("/","-", data[i, family.column]))
+    out.name <- ""
+    out.name <- paste0( gsub(" ", "_",data[i, taxon.column]))
     output_file <- paste0(out.name,'.pdf')
 
     bl.char <- "~"

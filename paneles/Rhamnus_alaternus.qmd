@@ -1,6 +1,6 @@
 ---
-title: Rhamnus alaternus
-sortby: 126
+title: Rhamnus_alaternus
+sortby: 
 subtitle: Rhamnaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Rhamnus alaternus](paneles/Rhamnus alaternus.png){width=95%}
+![Rhamnus_alaternus](paneles/Rhamnus_alaternus.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Rhamnus alaternus_RHAMNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Rhamnus_alaternus_RHAMNACEAE.pdf"></iframe>

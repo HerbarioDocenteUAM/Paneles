@@ -1,6 +1,6 @@
 ---
-title: Lavandula dentata
-sortby: 79
+title: Lavandula_dentata
+sortby: 
 subtitle: Lamiaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Lavandula dentata](paneles/Lavandula dentata.png){width=95%}
+![Lavandula_dentata](paneles/Lavandula_dentata.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Lavandula dentata_LAMIACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Lavandula_dentata_LAMIACEAE.pdf"></iframe>

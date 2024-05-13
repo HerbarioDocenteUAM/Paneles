@@ -1,6 +1,6 @@
 ---
-title: Erica cinerea
-sortby: 53
+title: Erica_cinerea
+sortby: 
 subtitle: Ericaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erica cinerea](paneles/Erica cinerea.png){width=95%}
+![Erica_cinerea](paneles/Erica_cinerea.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Erica cinerea_ERICACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Erica_cinerea_ERICACEAE.pdf"></iframe>

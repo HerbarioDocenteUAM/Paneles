@@ -1,6 +1,6 @@
 ---
-title: Erinacea anthyllis
-sortby: 60
+title: Erinacea_anthyllis
+sortby: 
 subtitle: Fabaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erinacea anthyllis](paneles/Erinacea anthyllis.png){width=95%}
+![Erinacea_anthyllis](paneles/Erinacea_anthyllis.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Erinacea anthyllis_FABACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Erinacea_anthyllis_FABACEAE.pdf"></iframe>

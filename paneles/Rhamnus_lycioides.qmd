@@ -1,6 +1,6 @@
 ---
-title: Rhamnus lycioides
-sortby: 128
+title: Rhamnus_lycioides
+sortby: 
 subtitle: Rhamnaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Rhamnus lycioides](paneles/Rhamnus lycioides.png){width=95%}
+![Rhamnus_lycioides](paneles/Rhamnus_lycioides.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Rhamnus lycioides_RHAMNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Rhamnus_lycioides_RHAMNACEAE.pdf"></iframe>

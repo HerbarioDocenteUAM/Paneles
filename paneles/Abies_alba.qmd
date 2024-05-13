@@ -1,6 +1,6 @@
 ---
-title: Abies alba
-sortby: 1
+title: Abies_alba
+sortby: 
 subtitle: Pinaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Abies alba](paneles/Abies alba.png){width=95%}
+![Abies_alba](paneles/Abies_alba.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Abies alba_PINACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Abies_alba_PINACEAE.pdf"></iframe>

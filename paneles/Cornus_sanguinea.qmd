@@ -1,6 +1,6 @@
 ---
-title: Cornus sanguinea
-sortby: 39
+title: Cornus_sanguinea
+sortby: 
 subtitle: Cornaceae
 toc: false
 about:
@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cornus sanguinea](paneles/Cornus sanguinea.png){width=95%}
+![Cornus_sanguinea](paneles/Cornus_sanguinea.png){width=95%}
 
-<iframe width="100%" height="600" src="fichas/paneles_Cornus sanguinea_CORNACEAE.pdf"></iframe>
+<iframe width="100%" height="600" src="fichas/paneles_Cornus_sanguinea_CORNACEAE.pdf"></iframe>
