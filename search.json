@@ -1,72 +1,1184 @@
 [
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Calendario",
+    "objectID": "paneles.html",
+    "href": "paneles.html",
+    "title": "Paneles Flora UAM",
     "section": "",
-    "text": "Calendario de la salida:"
+    "text": "Abies alba\n\n\nPinaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbies pinsapo\n\n\nPinaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcer campestre\n\n\nAceraceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcer monspessulanum\n\n\nAceraceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcer opalus\n\n\nAceraceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcer platanoides\n\n\nAceraceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcer pseudoplatanus\n\n\nAceraceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdenocarpus complicatus\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdenocarpus hispanicus\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlnus glutinosa\n\n\nBetulaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAmelanchier ovalis\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArbutus unedo\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArctostaphyllos uva-ursi\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAsplenium scolopendrium\n\n\nAspleniaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAsplenium sp.\n\n\nAspleniaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBerberis vulgaris\n\n\nBerberidaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBetula alba\n\n\nBetulaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBetula pendula\n\n\nBetulaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBuxus sempervirens\n\n\nBuxaceas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalicotome spinosa\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalicotome villosa\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalluna vulgaris\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarpinus betulus\n\n\nBetulaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCastanea sativa\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCeltis australis\n\n\nCannabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCeratonia siliqua\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChamaerops humilis\n\n\nArecaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChamaespartium tridentatum\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus albidus\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus clusii\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus crispus\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus ladanifer\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus laurifolius\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus libanotis\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus monspeliensis\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus populifolius\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus psilosepalus\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCistus salviifolius\n\n\nCistaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCornus sanguinea\n\n\nCornaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCorylus avellana\n\n\nBetulaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCrataegus monogyna\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCytisus multiflorus\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCytisus oromediterraneus\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCytisus scoparius\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCytisus striatus\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDaboecia cantabrica\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEchinospartum horridum\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEphedra fragilis\n\n\nEphedraceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEphedra nebrodensis\n\n\nEphedraceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica arborea\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica australis\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica ciliaris\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica cinerea\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica lusitanica\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica multiflora\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica scoparia\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica tetralix\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica umbellata\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErica vagans\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErinacea anthyllis\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEuonymus europaeus\n\n\nCelastraceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFagus sylvatica\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrangula alnus\n\n\nRhamnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFraxinus angustifolia\n\n\nOleaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFraxinus excelsior\n\n\nOleaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFraxinus ornus\n\n\nOleaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenista florida\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenista hirsuta\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenista scorpius\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIlex aquifolium\n\n\nAquifoliaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsoetes sp.\n\n\nIsoetaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuniperus communis\n\n\nCupresaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuniperus oxycedrus\n\n\nCupresaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuniperus phoenicea\n\n\nCupresaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuniperus sabina\n\n\nCupresaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuniperus thurifera\n\n\nCupresaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaurus nobilis\n\n\nLauraceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLavandula angustifolia\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLavandula dentata\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLavandula latifolia\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLavandula multifida\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLavandula pedunculata\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLavandula stoechas\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLavandula viridis\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLycopodium alpinum\n\n\nLycopodiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLycopodium sp.\n\n\nLycopodiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMyrtus communis\n\n\nMyrtaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNerium oleander\n\n\nApocynaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOlea europaea\n\n\nOleaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaliurus spina christi\n\n\nRhamnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeriploca laevigata\n\n\nApocynaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhillyrea angustifolia\n\n\nOleaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhillyrea latifolia\n\n\nOleaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhlomis lychnitis\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhlomis purpurea\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinus halepensis\n\n\nPinaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinus nigra\n\n\nPinaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinus pinaster\n\n\nPinaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinus pinea\n\n\nPinaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinus sylvestris\n\n\nPinaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinus uncinata\n\n\nPinaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPistacia lentiscus\n\n\nAnacardiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPistacia terebinthus\n\n\nAnacardiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolypodium sp.\n\n\nPolypodiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPopulus alba\n\n\nSalicaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPopulus nigra\n\n\nSalicaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPopulus tremula\n\n\nSalicaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrunus avium\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrunus lusitanica\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrunus mahaleb\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrunus padus\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrunus spinosa\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus canariensis\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus coccifera\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus faginea\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus ilex\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus lusitanica\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus petraea\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus pubescens\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus pyrenaica\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus robur\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus rotundifolia\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuercus suber\n\n\nFagaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetama monosperma\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRetama sphaerocarpa\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRhamnus alaternus\n\n\nRhamnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRhamnus catartica\n\n\nRhamnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRhamnus lycioides\n\n\nRhamnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRhamnus oleoides\n\n\nRhamnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRhododendron ferrugineum\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRhododendron ponticum\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRosa spp.\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRosmarinus officinalis\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRubus ulmifolius\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSalix alba\n\n\nSalicaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSalix atrocinerea\n\n\nSalicaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSalix caprea\n\n\nSalicaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSalix eleagnos\n\n\nSalicaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSalvia lavandulifolia\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSambucus nigra\n\n\nViburnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelaginella denticulata\n\n\nSelaginellaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSelaginella sp.\n\n\nSelaginellaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSorbus aria\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSorbus aucuparia\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSorbus torminalis\n\n\nRosaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpartium junceum\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStauracanthus sp.\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTamarix sp.\n\n\nTamaricaeae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaxus baccata\n\n\nTaxaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeline linifolia\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeline monspessulana\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTetraclinis articulata\n\n\nCupresaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThymus mastichina\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThymus vulgaris\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThymus zygis\n\n\nLamiaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTilia cordata\n\n\nTiliaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTilia platyphyllos\n\n\nTiliaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUlex spp.\n\n\nFabaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUlmus glabra\n\n\nUlmaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUlmus laevis\n\n\nUlmaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUlmus minor\n\n\nUlmaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVaccinium mirtyllus\n\n\nEricaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViburnum lantana\n\n\nViburnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViburnum opulus\n\n\nViburnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViburnum tinus\n\n\nViburnaceae\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZiziphus lotus\n\n\nRhamnaceae\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Paneles"
+    ]
   },
   {
-    "objectID": "schedule.html#viernes-16-de-junio",
-    "href": "schedule.html#viernes-16-de-junio",
-    "title": "Calendario",
-    "section": "Viernes 16 de junio",
-    "text": "Viernes 16 de junio\n\nVisita al Jardín Botánico Atlántico de Gijón. 15:00-18:00h.\nPunto de reunión: 15:00h, en la entrada del jardín, junto al parking (ver aquí).\n\n\nLlegada al Centro de Interpretación del Parque Natural de Somiedo\nPunto de reunión: 20:00h, Pola de Somiedo (ver aquí).\n\nRecordad lleva 5€ por noche y persona, a ser posiblle en metálico.\nEs necesario traer sacos de dormir o mantas/sábanas para dormir, así como toallas.\nEn Pola de Somiedo hay bares y restaurantes para cenar, pero recomendamos que traigáis comida comprada para el almuerzo de sábado y domingo, ya que probablemente a la hora que lleguemos a Pola de Somiedo no estén los supermercados abiertos.\nTanto el sábado como el domingo podremos igualmente desayunar y cenar en cualquiera de los bares del pueblo antes de iniciar las excursiones."
-  },
-  {
-    "objectID": "schedule.html#sábado-17-de-junio",
-    "href": "schedule.html#sábado-17-de-junio",
-    "title": "Calendario",
-    "section": "Sábado 17 de junio",
-    "text": "Sábado 17 de junio\n\nSalida al Alto de la Farrapona\nSalida entre 9:00-9:30: Punto de reunión: parking del Alto de la Farrapona (ver aquí).\n\nIntroducción, contexto biogeográfico, vegetación y las tradiciones de esta región a cargo de Víctor Vázquez.\nRuta por los lagos de Saliencia y Picos Albos - flora de alta montaña y brezal atlántico.\nAlmorzaremos en el campo y la hora de retorno dependerá de cuánto nos entretengamos en el camino."
-  },
-  {
-    "objectID": "schedule.html#domingo-18-de-junio",
-    "href": "schedule.html#domingo-18-de-junio",
-    "title": "Calendario",
-    "section": "Domingo 18 de junio",
-    "text": "Domingo 18 de junio\n\nSalida al Puerto de Somiedo\nSalida entre 9:00-9:30: Punto de reunión: Puerto de Somiedo (ver aquí).\n\nFlora asociada a piornales subalpinos y tremedales.\n\nRetorno a Pola de Somiedo 14:00h."
-  },
-  {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Materiales de interés para el curso",
+    "objectID": "paneles/Prunus_padus.html",
+    "href": "paneles/Prunus_padus.html",
+    "title": "Prunus padus",
     "section": "",
-    "text": "Para esta edición hemos creado un proyecto de iNaturalist, englobado en un paraguas de todas las ediciones. ¡Hazte miembro y participa!\n\nProyecto de la I Edición de SEBOTA: https://www.inaturalist.org/projects/sebota-2023-somiedo\nProyecto paraguas: https://www.inaturalist.org/projects/sebota"
+    "text": "Prunus padus"
   },
   {
-    "objectID": "materials.html#proyecto-de-inaturalist",
-    "href": "materials.html#proyecto-de-inaturalist",
-    "title": "Materiales de interés para el curso",
+    "objectID": "paneles/Selaginella_denticulata.html",
+    "href": "paneles/Selaginella_denticulata.html",
+    "title": "Selaginella denticulata",
     "section": "",
-    "text": "Para esta edición hemos creado un proyecto de iNaturalist, englobado en un paraguas de todas las ediciones. ¡Hazte miembro y participa!\n\nProyecto de la I Edición de SEBOTA: https://www.inaturalist.org/projects/sebota-2023-somiedo\nProyecto paraguas: https://www.inaturalist.org/projects/sebota"
+    "text": "Selaginella denticulata"
   },
   {
-    "objectID": "materials.html#mapas",
-    "href": "materials.html#mapas",
-    "title": "Materiales de interés para el curso",
-    "section": "Mapas",
-    "text": "Mapas\nMapa de Somiedo"
+    "objectID": "paneles/Erica_tetralix.html",
+    "href": "paneles/Erica_tetralix.html",
+    "title": "Erica tetralix",
+    "section": "",
+    "text": "Erica tetralix"
   },
   {
-    "objectID": "materials.html#guías",
-    "href": "materials.html#guías",
-    "title": "Materiales de interés para el curso",
-    "section": "Guías",
-    "text": "Guías\nFlora del País Vasco (Aizpuru et al., 1999)\nCatálogo de las plantas vasculares del Principado de Asturias (Fernández-Prieto et al., 2014)\nChecklist of the vascular plants of the Cantabrian Mountains (Jiménez-Alfaro et al., 2021)\nLa protección de la flora vascular del Principado de Asturias (Fernández-Prieto et al., 2007) (download)"
+    "objectID": "paneles/Salix_atrocinerea.html",
+    "href": "paneles/Salix_atrocinerea.html",
+    "title": "Salix atrocinerea",
+    "section": "",
+    "text": "Salix atrocinerea"
+  },
+  {
+    "objectID": "paneles/Phlomis_lychnitis.html",
+    "href": "paneles/Phlomis_lychnitis.html",
+    "title": "Phlomis lychnitis",
+    "section": "",
+    "text": "Phlomis lychnitis"
+  },
+  {
+    "objectID": "paneles/Juniperus_thurifera.html",
+    "href": "paneles/Juniperus_thurifera.html",
+    "title": "Juniperus thurifera",
+    "section": "",
+    "text": "Juniperus thurifera"
+  },
+  {
+    "objectID": "paneles/Ephedra_nebrodensis.html",
+    "href": "paneles/Ephedra_nebrodensis.html",
+    "title": "Ephedra nebrodensis",
+    "section": "",
+    "text": "Ephedra nebrodensis"
+  },
+  {
+    "objectID": "paneles/Quercus_suber.html",
+    "href": "paneles/Quercus_suber.html",
+    "title": "Quercus suber",
+    "section": "",
+    "text": "Quercus suber"
+  },
+  {
+    "objectID": "paneles/Fraxinus_excelsior.html",
+    "href": "paneles/Fraxinus_excelsior.html",
+    "title": "Fraxinus excelsior",
+    "section": "",
+    "text": "Fraxinus excelsior"
+  },
+  {
+    "objectID": "paneles/Prunus_avium.html",
+    "href": "paneles/Prunus_avium.html",
+    "title": "Prunus avium",
+    "section": "",
+    "text": "Prunus avium"
+  },
+  {
+    "objectID": "paneles/Ulmus_glabra.html",
+    "href": "paneles/Ulmus_glabra.html",
+    "title": "Ulmus glabra",
+    "section": "",
+    "text": "Ulmus glabra"
+  },
+  {
+    "objectID": "paneles/Castanea_sativa.html",
+    "href": "paneles/Castanea_sativa.html",
+    "title": "Castanea sativa",
+    "section": "",
+    "text": "Castanea sativa"
+  },
+  {
+    "objectID": "paneles/Quercus_petraea.html",
+    "href": "paneles/Quercus_petraea.html",
+    "title": "Quercus petraea",
+    "section": "",
+    "text": "Quercus petraea"
+  },
+  {
+    "objectID": "paneles/Alnus_glutinosa.html",
+    "href": "paneles/Alnus_glutinosa.html",
+    "title": "Alnus glutinosa",
+    "section": "",
+    "text": "Alnus glutinosa"
+  },
+  {
+    "objectID": "paneles/Erinacea_anthyllis.html",
+    "href": "paneles/Erinacea_anthyllis.html",
+    "title": "Erinacea anthyllis",
+    "section": "",
+    "text": "Erinacea anthyllis"
+  },
+  {
+    "objectID": "paneles/Viburnum_tinus.html",
+    "href": "paneles/Viburnum_tinus.html",
+    "title": "Viburnum tinus",
+    "section": "",
+    "text": "Viburnum tinus"
+  },
+  {
+    "objectID": "paneles/Quercus_rotundifolia.html",
+    "href": "paneles/Quercus_rotundifolia.html",
+    "title": "Quercus rotundifolia",
+    "section": "",
+    "text": "Quercus rotundifolia"
+  },
+  {
+    "objectID": "paneles/Juniperus_communis.html",
+    "href": "paneles/Juniperus_communis.html",
+    "title": "Juniperus communis",
+    "section": "",
+    "text": "Juniperus communis"
+  },
+  {
+    "objectID": "paneles/Vaccinium_mirtyllus.html",
+    "href": "paneles/Vaccinium_mirtyllus.html",
+    "title": "Vaccinium mirtyllus",
+    "section": "",
+    "text": "Vaccinium mirtyllus"
+  },
+  {
+    "objectID": "paneles/Acer_monspessulanum.html",
+    "href": "paneles/Acer_monspessulanum.html",
+    "title": "Acer monspessulanum",
+    "section": "",
+    "text": "Acer monspessulanum"
+  },
+  {
+    "objectID": "paneles/Lavandula_multifida.html",
+    "href": "paneles/Lavandula_multifida.html",
+    "title": "Lavandula multifida",
+    "section": "",
+    "text": "Lavandula multifida"
+  },
+  {
+    "objectID": "paneles/Chamaespartium_tridentatum.html",
+    "href": "paneles/Chamaespartium_tridentatum.html",
+    "title": "Chamaespartium tridentatum",
+    "section": "",
+    "text": "Chamaespartium tridentatum"
+  },
+  {
+    "objectID": "paneles/Ceratonia_siliqua.html",
+    "href": "paneles/Ceratonia_siliqua.html",
+    "title": "Ceratonia siliqua",
+    "section": "",
+    "text": "Ceratonia siliqua"
+  },
+  {
+    "objectID": "paneles/Prunus_lusitanica.html",
+    "href": "paneles/Prunus_lusitanica.html",
+    "title": "Prunus lusitanica",
+    "section": "",
+    "text": "Prunus lusitanica"
+  },
+  {
+    "objectID": "paneles/Laurus_nobilis.html",
+    "href": "paneles/Laurus_nobilis.html",
+    "title": "Laurus nobilis",
+    "section": "",
+    "text": "Laurus nobilis"
+  },
+  {
+    "objectID": "paneles/Prunus_spinosa.html",
+    "href": "paneles/Prunus_spinosa.html",
+    "title": "Prunus spinosa",
+    "section": "",
+    "text": "Prunus spinosa"
+  },
+  {
+    "objectID": "paneles/Quercus_canariensis.html",
+    "href": "paneles/Quercus_canariensis.html",
+    "title": "Quercus canariensis",
+    "section": "",
+    "text": "Quercus canariensis"
+  },
+  {
+    "objectID": "paneles/Genista_hirsuta.html",
+    "href": "paneles/Genista_hirsuta.html",
+    "title": "Genista hirsuta",
+    "section": "",
+    "text": "Genista hirsuta"
+  },
+  {
+    "objectID": "paneles/Daboecia_cantabrica.html",
+    "href": "paneles/Daboecia_cantabrica.html",
+    "title": "Daboecia cantabrica",
+    "section": "",
+    "text": "Daboecia cantabrica"
+  },
+  {
+    "objectID": "paneles/Cistus_crispus.html",
+    "href": "paneles/Cistus_crispus.html",
+    "title": "Cistus crispus",
+    "section": "",
+    "text": "Cistus crispus"
+  },
+  {
+    "objectID": "paneles/Thymus_vulgaris.html",
+    "href": "paneles/Thymus_vulgaris.html",
+    "title": "Thymus vulgaris",
+    "section": "",
+    "text": "Thymus vulgaris"
+  },
+  {
+    "objectID": "paneles/Carpinus_betulus.html",
+    "href": "paneles/Carpinus_betulus.html",
+    "title": "Carpinus betulus",
+    "section": "",
+    "text": "Carpinus betulus"
+  },
+  {
+    "objectID": "paneles/Pinus_sylvestris.html",
+    "href": "paneles/Pinus_sylvestris.html",
+    "title": "Pinus sylvestris",
+    "section": "",
+    "text": "Pinus sylvestris"
+  },
+  {
+    "objectID": "paneles/Fraxinus_angustifolia.html",
+    "href": "paneles/Fraxinus_angustifolia.html",
+    "title": "Fraxinus angustifolia",
+    "section": "",
+    "text": "Fraxinus angustifolia"
+  },
+  {
+    "objectID": "paneles/Phlomis_purpurea.html",
+    "href": "paneles/Phlomis_purpurea.html",
+    "title": "Phlomis purpurea",
+    "section": "",
+    "text": "Phlomis purpurea"
+  },
+  {
+    "objectID": "paneles/Teline_linifolia.html",
+    "href": "paneles/Teline_linifolia.html",
+    "title": "Teline linifolia",
+    "section": "",
+    "text": "Teline linifolia"
+  },
+  {
+    "objectID": "paneles/Tamarix_sp..html",
+    "href": "paneles/Tamarix_sp..html",
+    "title": "Tamarix sp.",
+    "section": "",
+    "text": "Tamarix sp."
+  },
+  {
+    "objectID": "paneles/Rhododendron_ponticum.html",
+    "href": "paneles/Rhododendron_ponticum.html",
+    "title": "Rhododendron ponticum",
+    "section": "",
+    "text": "Rhododendron ponticum"
+  },
+  {
+    "objectID": "paneles/Polypodium_sp..html",
+    "href": "paneles/Polypodium_sp..html",
+    "title": "Polypodium sp.",
+    "section": "",
+    "text": "Polypodium sp."
+  },
+  {
+    "objectID": "paneles/Sorbus_torminalis.html",
+    "href": "paneles/Sorbus_torminalis.html",
+    "title": "Sorbus torminalis",
+    "section": "",
+    "text": "Sorbus torminalis"
+  },
+  {
+    "objectID": "paneles/Quercus_lusitanica.html",
+    "href": "paneles/Quercus_lusitanica.html",
+    "title": "Quercus lusitanica",
+    "section": "",
+    "text": "Quercus lusitanica"
+  },
+  {
+    "objectID": "paneles/Ilex_aquifolium.html",
+    "href": "paneles/Ilex_aquifolium.html",
+    "title": "Ilex aquifolium",
+    "section": "",
+    "text": "Ilex aquifolium"
+  },
+  {
+    "objectID": "paneles/Lavandula_dentata.html",
+    "href": "paneles/Lavandula_dentata.html",
+    "title": "Lavandula dentata",
+    "section": "",
+    "text": "Lavandula dentata"
+  },
+  {
+    "objectID": "paneles/Olea_europaea.html",
+    "href": "paneles/Olea_europaea.html",
+    "title": "Olea europaea",
+    "section": "",
+    "text": "Olea europaea"
+  },
+  {
+    "objectID": "paneles/Fagus_sylvatica.html",
+    "href": "paneles/Fagus_sylvatica.html",
+    "title": "Fagus sylvatica",
+    "section": "",
+    "text": "Fagus sylvatica"
+  },
+  {
+    "objectID": "paneles/Phillyrea_angustifolia.html",
+    "href": "paneles/Phillyrea_angustifolia.html",
+    "title": "Phillyrea angustifolia",
+    "section": "",
+    "text": "Phillyrea angustifolia"
+  },
+  {
+    "objectID": "paneles/Asplenium_scolopendrium.html",
+    "href": "paneles/Asplenium_scolopendrium.html",
+    "title": "Asplenium scolopendrium",
+    "section": "",
+    "text": "Asplenium scolopendrium"
+  },
+  {
+    "objectID": "paneles/Thymus_zygis.html",
+    "href": "paneles/Thymus_zygis.html",
+    "title": "Thymus zygis",
+    "section": "",
+    "text": "Thymus zygis"
+  },
+  {
+    "objectID": "paneles/Buxus_sempervirens.html",
+    "href": "paneles/Buxus_sempervirens.html",
+    "title": "Buxus sempervirens",
+    "section": "",
+    "text": "Buxus sempervirens"
+  },
+  {
+    "objectID": "paneles/Juniperus_phoenicea.html",
+    "href": "paneles/Juniperus_phoenicea.html",
+    "title": "Juniperus phoenicea",
+    "section": "",
+    "text": "Juniperus phoenicea"
+  },
+  {
+    "objectID": "paneles/Retama_monosperma.html",
+    "href": "paneles/Retama_monosperma.html",
+    "title": "Retama monosperma",
+    "section": "",
+    "text": "Retama monosperma"
+  },
+  {
+    "objectID": "paneles/Salvia_lavandulifolia.html",
+    "href": "paneles/Salvia_lavandulifolia.html",
+    "title": "Salvia lavandulifolia",
+    "section": "",
+    "text": "Salvia lavandulifolia"
+  },
+  {
+    "objectID": "paneles/Rosa_spp..html",
+    "href": "paneles/Rosa_spp..html",
+    "title": "Rosa spp.",
+    "section": "",
+    "text": "Rosa spp."
+  },
+  {
+    "objectID": "paneles/Ulex_spp..html",
+    "href": "paneles/Ulex_spp..html",
+    "title": "Ulex spp.",
+    "section": "",
+    "text": "Ulex spp."
+  },
+  {
+    "objectID": "paneles/Celtis_australis.html",
+    "href": "paneles/Celtis_australis.html",
+    "title": "Celtis australis",
+    "section": "",
+    "text": "Celtis australis"
+  },
+  {
+    "objectID": "paneles/Rhamnus_oleoides.html",
+    "href": "paneles/Rhamnus_oleoides.html",
+    "title": "Rhamnus oleoides",
+    "section": "",
+    "text": "Rhamnus oleoides"
+  },
+  {
+    "objectID": "paneles/Cytisus_oromediterraneus.html",
+    "href": "paneles/Cytisus_oromediterraneus.html",
+    "title": "Cytisus oromediterraneus",
+    "section": "",
+    "text": "Cytisus oromediterraneus"
+  },
+  {
+    "objectID": "paneles/Rhamnus_lycioides.html",
+    "href": "paneles/Rhamnus_lycioides.html",
+    "title": "Rhamnus lycioides",
+    "section": "",
+    "text": "Rhamnus lycioides"
+  },
+  {
+    "objectID": "paneles/Cytisus_striatus.html",
+    "href": "paneles/Cytisus_striatus.html",
+    "title": "Cytisus striatus",
+    "section": "",
+    "text": "Cytisus striatus"
+  },
+  {
+    "objectID": "paneles/Frangula_alnus.html",
+    "href": "paneles/Frangula_alnus.html",
+    "title": "Frangula alnus",
+    "section": "",
+    "text": "Frangula alnus"
+  },
+  {
+    "objectID": "paneles/Pinus_nigra.html",
+    "href": "paneles/Pinus_nigra.html",
+    "title": "Pinus nigra",
+    "section": "",
+    "text": "Pinus nigra"
+  },
+  {
+    "objectID": "paneles/Rhododendron_ferrugineum.html",
+    "href": "paneles/Rhododendron_ferrugineum.html",
+    "title": "Rhododendron ferrugineum",
+    "section": "",
+    "text": "Rhododendron ferrugineum"
+  },
+  {
+    "objectID": "paneles/Corylus_avellana.html",
+    "href": "paneles/Corylus_avellana.html",
+    "title": "Corylus avellana",
+    "section": "",
+    "text": "Corylus avellana"
+  },
+  {
+    "objectID": "paneles/Berberis_vulgaris.html",
+    "href": "paneles/Berberis_vulgaris.html",
+    "title": "Berberis vulgaris",
+    "section": "",
+    "text": "Berberis vulgaris"
+  },
+  {
+    "objectID": "paneles/Pistacia_terebinthus.html",
+    "href": "paneles/Pistacia_terebinthus.html",
+    "title": "Pistacia terebinthus",
+    "section": "",
+    "text": "Pistacia terebinthus"
+  },
+  {
+    "objectID": "paneles/Sorbus_aucuparia.html",
+    "href": "paneles/Sorbus_aucuparia.html",
+    "title": "Sorbus aucuparia",
+    "section": "",
+    "text": "Sorbus aucuparia"
+  },
+  {
+    "objectID": "paneles/Calluna_vulgaris.html",
+    "href": "paneles/Calluna_vulgaris.html",
+    "title": "Calluna vulgaris",
+    "section": "",
+    "text": "Calluna vulgaris"
+  },
+  {
+    "objectID": "paneles/Calicotome_spinosa.html",
+    "href": "paneles/Calicotome_spinosa.html",
+    "title": "Calicotome spinosa",
+    "section": "",
+    "text": "Calicotome spinosa"
+  },
+  {
+    "objectID": "paneles/Lycopodium_alpinum.html",
+    "href": "paneles/Lycopodium_alpinum.html",
+    "title": "Lycopodium alpinum",
+    "section": "",
+    "text": "Lycopodium alpinum"
+  },
+  {
+    "objectID": "paneles/Juniperus_oxycedrus.html",
+    "href": "paneles/Juniperus_oxycedrus.html",
+    "title": "Juniperus oxycedrus",
+    "section": "",
+    "text": "Juniperus oxycedrus"
+  },
+  {
+    "objectID": "paneles/Erica_cinerea.html",
+    "href": "paneles/Erica_cinerea.html",
+    "title": "Erica cinerea",
+    "section": "",
+    "text": "Erica cinerea"
+  },
+  {
+    "objectID": "paneles/Calicotome_villosa.html",
+    "href": "paneles/Calicotome_villosa.html",
+    "title": "Calicotome villosa",
+    "section": "",
+    "text": "Calicotome villosa"
+  },
+  {
+    "objectID": "paneles/Pinus_pinea.html",
+    "href": "paneles/Pinus_pinea.html",
+    "title": "Pinus pinea",
+    "section": "",
+    "text": "Pinus pinea"
+  },
+  {
+    "objectID": "paneles/Cytisus_multiflorus.html",
+    "href": "paneles/Cytisus_multiflorus.html",
+    "title": "Cytisus multiflorus",
+    "section": "",
+    "text": "Cytisus multiflorus"
+  },
+  {
+    "objectID": "paneles/Ulmus_laevis.html",
+    "href": "paneles/Ulmus_laevis.html",
+    "title": "Ulmus laevis",
+    "section": "",
+    "text": "Ulmus laevis"
+  },
+  {
+    "objectID": "paneles/Asplenium_sp..html",
+    "href": "paneles/Asplenium_sp..html",
+    "title": "Asplenium sp.",
+    "section": "",
+    "text": "Asplenium sp."
+  },
+  {
+    "objectID": "paneles/Cistus_monspeliensis.html",
+    "href": "paneles/Cistus_monspeliensis.html",
+    "title": "Cistus monspeliensis",
+    "section": "",
+    "text": "Cistus monspeliensis"
+  },
+  {
+    "objectID": "paneles/Cornus_sanguinea.html",
+    "href": "paneles/Cornus_sanguinea.html",
+    "title": "Cornus sanguinea",
+    "section": "",
+    "text": "Cornus sanguinea"
+  },
+  {
+    "objectID": "paneles/Abies_alba.html",
+    "href": "paneles/Abies_alba.html",
+    "title": "Abies alba",
+    "section": "",
+    "text": "Abies alba"
+  },
+  {
+    "objectID": "paneles/Acer_pseudoplatanus.html",
+    "href": "paneles/Acer_pseudoplatanus.html",
+    "title": "Acer pseudoplatanus",
+    "section": "",
+    "text": "Acer pseudoplatanus"
+  },
+  {
+    "objectID": "paneles/Cistus_populifolius.html",
+    "href": "paneles/Cistus_populifolius.html",
+    "title": "Cistus populifolius",
+    "section": "",
+    "text": "Cistus populifolius"
+  },
+  {
+    "objectID": "paneles/Tetraclinis_articulata.html",
+    "href": "paneles/Tetraclinis_articulata.html",
+    "title": "Tetraclinis articulata",
+    "section": "",
+    "text": "Tetraclinis articulata"
+  },
+  {
+    "objectID": "paneles/Juniperus_sabina.html",
+    "href": "paneles/Juniperus_sabina.html",
+    "title": "Juniperus sabina",
+    "section": "",
+    "text": "Juniperus sabina"
+  },
+  {
+    "objectID": "paneles/Taxus_baccata.html",
+    "href": "paneles/Taxus_baccata.html",
+    "title": "Taxus baccata",
+    "section": "",
+    "text": "Taxus baccata"
+  },
+  {
+    "objectID": "paneles/Myrtus_communis.html",
+    "href": "paneles/Myrtus_communis.html",
+    "title": "Myrtus communis",
+    "section": "",
+    "text": "Myrtus communis"
+  },
+  {
+    "objectID": "paneles/Acer_opalus.html",
+    "href": "paneles/Acer_opalus.html",
+    "title": "Acer opalus",
+    "section": "",
+    "text": "Acer opalus"
+  },
+  {
+    "objectID": "paneles/Cistus_salviifolius.html",
+    "href": "paneles/Cistus_salviifolius.html",
+    "title": "Cistus salviifolius",
+    "section": "",
+    "text": "Cistus salviifolius"
+  },
+  {
+    "objectID": "paneles/Teline_monspessulana.html",
+    "href": "paneles/Teline_monspessulana.html",
+    "title": "Teline monspessulana",
+    "section": "",
+    "text": "Teline monspessulana"
+  },
+  {
+    "objectID": "paneles/Populus_nigra.html",
+    "href": "paneles/Populus_nigra.html",
+    "title": "Populus nigra",
+    "section": "",
+    "text": "Populus nigra"
+  },
+  {
+    "objectID": "paneles/Populus_alba.html",
+    "href": "paneles/Populus_alba.html",
+    "title": "Populus alba",
+    "section": "",
+    "text": "Populus alba"
+  },
+  {
+    "objectID": "paneles/Pinus_pinaster.html",
+    "href": "paneles/Pinus_pinaster.html",
+    "title": "Pinus pinaster",
+    "section": "",
+    "text": "Pinus pinaster"
+  },
+  {
+    "objectID": "paneles/Euonymus_europaeus.html",
+    "href": "paneles/Euonymus_europaeus.html",
+    "title": "Euonymus europaeus",
+    "section": "",
+    "text": "Euonymus europaeus"
+  },
+  {
+    "objectID": "paneles/Retama_sphaerocarpa.html",
+    "href": "paneles/Retama_sphaerocarpa.html",
+    "title": "Retama sphaerocarpa",
+    "section": "",
+    "text": "Retama sphaerocarpa"
+  },
+  {
+    "objectID": "paneles/Lavandula_viridis.html",
+    "href": "paneles/Lavandula_viridis.html",
+    "title": "Lavandula viridis",
+    "section": "",
+    "text": "Lavandula viridis"
+  },
+  {
+    "objectID": "paneles/Erica_australis.html",
+    "href": "paneles/Erica_australis.html",
+    "title": "Erica australis",
+    "section": "",
+    "text": "Erica australis"
+  },
+  {
+    "objectID": "paneles/Pinus_uncinata.html",
+    "href": "paneles/Pinus_uncinata.html",
+    "title": "Pinus uncinata",
+    "section": "",
+    "text": "Pinus uncinata"
+  },
+  {
+    "objectID": "paneles/Chamaerops_humilis.html",
+    "href": "paneles/Chamaerops_humilis.html",
+    "title": "Chamaerops humilis",
+    "section": "",
+    "text": "Chamaerops humilis"
+  },
+  {
+    "objectID": "paneles/Erica_ciliaris.html",
+    "href": "paneles/Erica_ciliaris.html",
+    "title": "Erica ciliaris",
+    "section": "",
+    "text": "Erica ciliaris"
+  },
+  {
+    "objectID": "paneles/Quercus_faginea.html",
+    "href": "paneles/Quercus_faginea.html",
+    "title": "Quercus faginea",
+    "section": "",
+    "text": "Quercus faginea"
+  },
+  {
+    "objectID": "paneles/Quercus_coccifera.html",
+    "href": "paneles/Quercus_coccifera.html",
+    "title": "Quercus coccifera",
+    "section": "",
+    "text": "Quercus coccifera"
+  },
+  {
+    "objectID": "paneles/Pinus_halepensis.html",
+    "href": "paneles/Pinus_halepensis.html",
+    "title": "Pinus halepensis",
+    "section": "",
+    "text": "Pinus halepensis"
+  },
+  {
+    "objectID": "paneles/Populus_tremula.html",
+    "href": "paneles/Populus_tremula.html",
+    "title": "Populus tremula",
+    "section": "",
+    "text": "Populus tremula"
+  },
+  {
+    "objectID": "paneles/Amelanchier_ovalis.html",
+    "href": "paneles/Amelanchier_ovalis.html",
+    "title": "Amelanchier ovalis",
+    "section": "",
+    "text": "Amelanchier ovalis"
+  },
+  {
+    "objectID": "paneles/Quercus_pubescens.html",
+    "href": "paneles/Quercus_pubescens.html",
+    "title": "Quercus pubescens",
+    "section": "",
+    "text": "Quercus pubescens"
+  },
+  {
+    "objectID": "paneles/Cistus_laurifolius.html",
+    "href": "paneles/Cistus_laurifolius.html",
+    "title": "Cistus laurifolius",
+    "section": "",
+    "text": "Cistus laurifolius"
+  },
+  {
+    "objectID": "paneles/Rubus_ulmifolius.html",
+    "href": "paneles/Rubus_ulmifolius.html",
+    "title": "Rubus ulmifolius",
+    "section": "",
+    "text": "Rubus ulmifolius"
+  },
+  {
+    "objectID": "paneles/Quercus_pyrenaica.html",
+    "href": "paneles/Quercus_pyrenaica.html",
+    "title": "Quercus pyrenaica",
+    "section": "",
+    "text": "Quercus pyrenaica"
+  },
+  {
+    "objectID": "paneles/Quercus_robur.html",
+    "href": "paneles/Quercus_robur.html",
+    "title": "Quercus robur",
+    "section": "",
+    "text": "Quercus robur"
+  },
+  {
+    "objectID": "paneles/Rhamnus_alaternus.html",
+    "href": "paneles/Rhamnus_alaternus.html",
+    "title": "Rhamnus alaternus",
+    "section": "",
+    "text": "Rhamnus alaternus"
+  },
+  {
+    "objectID": "paneles/Stauracanthus_sp..html",
+    "href": "paneles/Stauracanthus_sp..html",
+    "title": "Stauracanthus sp.",
+    "section": "",
+    "text": "Stauracanthus sp."
+  },
+  {
+    "objectID": "paneles/Salix_eleagnos.html",
+    "href": "paneles/Salix_eleagnos.html",
+    "title": "Salix eleagnos",
+    "section": "",
+    "text": "Salix eleagnos"
+  },
+  {
+    "objectID": "paneles/Thymus_mastichina.html",
+    "href": "paneles/Thymus_mastichina.html",
+    "title": "Thymus mastichina",
+    "section": "",
+    "text": "Thymus mastichina"
+  },
+  {
+    "objectID": "paneles/Salix_alba.html",
+    "href": "paneles/Salix_alba.html",
+    "title": "Salix alba",
+    "section": "",
+    "text": "Salix alba"
+  },
+  {
+    "objectID": "paneles/Lycopodium_sp..html",
+    "href": "paneles/Lycopodium_sp..html",
+    "title": "Lycopodium sp.",
+    "section": "",
+    "text": "Lycopodium sp."
+  },
+  {
+    "objectID": "paneles/Acer_campestre.html",
+    "href": "paneles/Acer_campestre.html",
+    "title": "Acer campestre",
+    "section": "",
+    "text": "Acer campestre"
+  },
+  {
+    "objectID": "paneles/Cistus_libanotis.html",
+    "href": "paneles/Cistus_libanotis.html",
+    "title": "Cistus libanotis",
+    "section": "",
+    "text": "Cistus libanotis"
+  },
+  {
+    "objectID": "paneles/Lavandula_stoechas.html",
+    "href": "paneles/Lavandula_stoechas.html",
+    "title": "Lavandula stoechas",
+    "section": "",
+    "text": "Lavandula stoechas"
+  },
+  {
+    "objectID": "paneles/Betula_pendula.html",
+    "href": "paneles/Betula_pendula.html",
+    "title": "Betula pendula",
+    "section": "",
+    "text": "Betula pendula"
+  },
+  {
+    "objectID": "paneles/Selaginella_sp..html",
+    "href": "paneles/Selaginella_sp..html",
+    "title": "Selaginella sp.",
+    "section": "",
+    "text": "Selaginella sp."
+  },
+  {
+    "objectID": "paneles/Cistus_albidus.html",
+    "href": "paneles/Cistus_albidus.html",
+    "title": "Cistus albidus",
+    "section": "",
+    "text": "Cistus albidus"
+  },
+  {
+    "objectID": "paneles/Spartium_junceum.html",
+    "href": "paneles/Spartium_junceum.html",
+    "title": "Spartium junceum",
+    "section": "",
+    "text": "Spartium junceum"
+  },
+  {
+    "objectID": "paneles/Cistus_clusii.html",
+    "href": "paneles/Cistus_clusii.html",
+    "title": "Cistus clusii",
+    "section": "",
+    "text": "Cistus clusii"
+  },
+  {
+    "objectID": "paneles/Erica_vagans.html",
+    "href": "paneles/Erica_vagans.html",
+    "title": "Erica vagans",
+    "section": "",
+    "text": "Erica vagans"
+  },
+  {
+    "objectID": "paneles/Sambucus_nigra.html",
+    "href": "paneles/Sambucus_nigra.html",
+    "title": "Sambucus nigra",
+    "section": "",
+    "text": "Sambucus nigra"
+  },
+  {
+    "objectID": "paneles/Viburnum_opulus.html",
+    "href": "paneles/Viburnum_opulus.html",
+    "title": "Viburnum opulus",
+    "section": "",
+    "text": "Viburnum opulus"
+  },
+  {
+    "objectID": "paneles/Crataegus_monogyna.html",
+    "href": "paneles/Crataegus_monogyna.html",
+    "title": "Crataegus monogyna",
+    "section": "",
+    "text": "Crataegus monogyna"
+  },
+  {
+    "objectID": "paneles/Prunus_mahaleb.html",
+    "href": "paneles/Prunus_mahaleb.html",
+    "title": "Prunus mahaleb",
+    "section": "",
+    "text": "Prunus mahaleb"
+  },
+  {
+    "objectID": "paneles/Arctostaphyllos_uva-ursi.html",
+    "href": "paneles/Arctostaphyllos_uva-ursi.html",
+    "title": "Arctostaphyllos uva-ursi",
+    "section": "",
+    "text": "Arctostaphyllos uva-ursi"
+  },
+  {
+    "objectID": "paneles/Erica_umbellata.html",
+    "href": "paneles/Erica_umbellata.html",
+    "title": "Erica umbellata",
+    "section": "",
+    "text": "Erica umbellata"
+  },
+  {
+    "objectID": "paneles/Tilia_platyphyllos.html",
+    "href": "paneles/Tilia_platyphyllos.html",
+    "title": "Tilia platyphyllos",
+    "section": "",
+    "text": "Tilia platyphyllos"
+  },
+  {
+    "objectID": "paneles/Lavandula_latifolia.html",
+    "href": "paneles/Lavandula_latifolia.html",
+    "title": "Lavandula latifolia",
+    "section": "",
+    "text": "Lavandula latifolia"
+  },
+  {
+    "objectID": "paneles/Adenocarpus_complicatus.html",
+    "href": "paneles/Adenocarpus_complicatus.html",
+    "title": "Adenocarpus complicatus",
+    "section": "",
+    "text": "Adenocarpus complicatus"
+  },
+  {
+    "objectID": "paneles/Paliurus_spina_christi.html",
+    "href": "paneles/Paliurus_spina_christi.html",
+    "title": "Paliurus spina christi",
+    "section": "",
+    "text": "Paliurus spina christi"
+  },
+  {
+    "objectID": "paneles/Erica_lusitanica.html",
+    "href": "paneles/Erica_lusitanica.html",
+    "title": "Erica lusitanica",
+    "section": "",
+    "text": "Erica lusitanica"
+  },
+  {
+    "objectID": "paneles/Pistacia_lentiscus.html",
+    "href": "paneles/Pistacia_lentiscus.html",
+    "title": "Pistacia lentiscus",
+    "section": "",
+    "text": "Pistacia lentiscus"
+  },
+  {
+    "objectID": "paneles/Erica_scoparia.html",
+    "href": "paneles/Erica_scoparia.html",
+    "title": "Erica scoparia",
+    "section": "",
+    "text": "Erica scoparia"
+  },
+  {
+    "objectID": "paneles/Genista_florida.html",
+    "href": "paneles/Genista_florida.html",
+    "title": "Genista florida",
+    "section": "",
+    "text": "Genista florida"
+  },
+  {
+    "objectID": "paneles/Ephedra_fragilis.html",
+    "href": "paneles/Ephedra_fragilis.html",
+    "title": "Ephedra fragilis",
+    "section": "",
+    "text": "Ephedra fragilis"
+  },
+  {
+    "objectID": "paneles/Phillyrea_latifolia.html",
+    "href": "paneles/Phillyrea_latifolia.html",
+    "title": "Phillyrea latifolia",
+    "section": "",
+    "text": "Phillyrea latifolia"
+  },
+  {
+    "objectID": "paneles/Ziziphus_lotus.html",
+    "href": "paneles/Ziziphus_lotus.html",
+    "title": "Ziziphus lotus",
+    "section": "",
+    "text": "Ziziphus lotus"
+  },
+  {
+    "objectID": "paneles/Isoetes_sp..html",
+    "href": "paneles/Isoetes_sp..html",
+    "title": "Isoetes sp.",
+    "section": "",
+    "text": "Isoetes sp."
+  },
+  {
+    "objectID": "paneles/Echinospartum_horridum.html",
+    "href": "paneles/Echinospartum_horridum.html",
+    "title": "Echinospartum horridum",
+    "section": "",
+    "text": "Echinospartum horridum"
+  },
+  {
+    "objectID": "paneles/Quercus_ilex.html",
+    "href": "paneles/Quercus_ilex.html",
+    "title": "Quercus ilex",
+    "section": "",
+    "text": "Quercus ilex"
+  },
+  {
+    "objectID": "paneles/Lavandula_angustifolia.html",
+    "href": "paneles/Lavandula_angustifolia.html",
+    "title": "Lavandula angustifolia",
+    "section": "",
+    "text": "Lavandula angustifolia"
+  },
+  {
+    "objectID": "paneles/Erica_arborea.html",
+    "href": "paneles/Erica_arborea.html",
+    "title": "Erica arborea",
+    "section": "",
+    "text": "Erica arborea"
+  },
+  {
+    "objectID": "paneles/Viburnum_lantana.html",
+    "href": "paneles/Viburnum_lantana.html",
+    "title": "Viburnum lantana",
+    "section": "",
+    "text": "Viburnum lantana"
+  },
+  {
+    "objectID": "paneles/Betula_alba.html",
+    "href": "paneles/Betula_alba.html",
+    "title": "Betula alba",
+    "section": "",
+    "text": "Betula alba"
+  },
+  {
+    "objectID": "paneles/Tilia_cordata.html",
+    "href": "paneles/Tilia_cordata.html",
+    "title": "Tilia cordata",
+    "section": "",
+    "text": "Tilia cordata"
+  },
+  {
+    "objectID": "paneles/Ulmus_minor.html",
+    "href": "paneles/Ulmus_minor.html",
+    "title": "Ulmus minor",
+    "section": "",
+    "text": "Ulmus minor"
+  },
+  {
+    "objectID": "paneles/Abies_pinsapo.html",
+    "href": "paneles/Abies_pinsapo.html",
+    "title": "Abies pinsapo",
+    "section": "",
+    "text": "Abies pinsapo"
+  },
+  {
+    "objectID": "paneles/Cistus_psilosepalus.html",
+    "href": "paneles/Cistus_psilosepalus.html",
+    "title": "Cistus psilosepalus",
+    "section": "",
+    "text": "Cistus psilosepalus"
+  },
+  {
+    "objectID": "paneles/Arbutus_unedo.html",
+    "href": "paneles/Arbutus_unedo.html",
+    "title": "Arbutus unedo",
+    "section": "",
+    "text": "Arbutus unedo"
+  },
+  {
+    "objectID": "paneles/Fraxinus_ornus.html",
+    "href": "paneles/Fraxinus_ornus.html",
+    "title": "Fraxinus ornus",
+    "section": "",
+    "text": "Fraxinus ornus"
+  },
+  {
+    "objectID": "paneles/Periploca_laevigata.html",
+    "href": "paneles/Periploca_laevigata.html",
+    "title": "Periploca laevigata",
+    "section": "",
+    "text": "Periploca laevigata"
+  },
+  {
+    "objectID": "paneles/Cistus_ladanifer.html",
+    "href": "paneles/Cistus_ladanifer.html",
+    "title": "Cistus ladanifer",
+    "section": "",
+    "text": "Cistus ladanifer"
+  },
+  {
+    "objectID": "paneles/Rhamnus_catartica.html",
+    "href": "paneles/Rhamnus_catartica.html",
+    "title": "Rhamnus catartica",
+    "section": "",
+    "text": "Rhamnus catartica"
+  },
+  {
+    "objectID": "paneles/Acer_platanoides.html",
+    "href": "paneles/Acer_platanoides.html",
+    "title": "Acer platanoides",
+    "section": "",
+    "text": "Acer platanoides"
+  },
+  {
+    "objectID": "paneles/Cytisus_scoparius.html",
+    "href": "paneles/Cytisus_scoparius.html",
+    "title": "Cytisus scoparius",
+    "section": "",
+    "text": "Cytisus scoparius"
+  },
+  {
+    "objectID": "paneles/Adenocarpus_hispanicus.html",
+    "href": "paneles/Adenocarpus_hispanicus.html",
+    "title": "Adenocarpus hispanicus",
+    "section": "",
+    "text": "Adenocarpus hispanicus"
+  },
+  {
+    "objectID": "paneles/Nerium_oleander.html",
+    "href": "paneles/Nerium_oleander.html",
+    "title": "Nerium oleander",
+    "section": "",
+    "text": "Nerium oleander"
+  },
+  {
+    "objectID": "paneles/Rosmarinus_officinalis.html",
+    "href": "paneles/Rosmarinus_officinalis.html",
+    "title": "Rosmarinus officinalis",
+    "section": "",
+    "text": "Rosmarinus officinalis"
+  },
+  {
+    "objectID": "paneles/Lavandula_pedunculata.html",
+    "href": "paneles/Lavandula_pedunculata.html",
+    "title": "Lavandula pedunculata",
+    "section": "",
+    "text": "Lavandula pedunculata"
+  },
+  {
+    "objectID": "paneles/Erica_multiflora.html",
+    "href": "paneles/Erica_multiflora.html",
+    "title": "Erica multiflora",
+    "section": "",
+    "text": "Erica multiflora"
+  },
+  {
+    "objectID": "paneles/Sorbus_aria.html",
+    "href": "paneles/Sorbus_aria.html",
+    "title": "Sorbus aria",
+    "section": "",
+    "text": "Sorbus aria"
+  },
+  {
+    "objectID": "paneles/Salix_caprea.html",
+    "href": "paneles/Salix_caprea.html",
+    "title": "Salix caprea",
+    "section": "",
+    "text": "Salix caprea"
+  },
+  {
+    "objectID": "paneles/Genista_scorpius.html",
+    "href": "paneles/Genista_scorpius.html",
+    "title": "Genista scorpius",
+    "section": "",
+    "text": "Genista scorpius"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SEBOTA I Edición",
+    "title": "WEB DE PRUEBA DE PANELES",
     "section": "",
-    "text": "En esta página web puedes encontrar información acerca de la primera edición de las salidas de SEBOTA.\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ig.ramosgutierrez@gmail.com)\n\n\nJosé Ignacio Márquez-Corro (jimarcorr@gmail.com)\n\n\nSara Martín Hernanz (sara.martin.hernanz@gmail.com)\nEcha un ojo a la nota publicada en Conservación Vegetal SEBOTA: un encuentro para conocer de cerca la diversidad de nuestra flora"
-  },
-  {
-    "objectID": "participantes.html",
-    "href": "participantes.html",
-    "title": "SEBOTA I Edición",
-    "section": "",
-    "text": "Borja Jiménez Alfaro\n\n\nJardín Botánico Atlántico de Gijón\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnacio Ramos-Gutiérrez\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJose Ignacio Márquez Corro\n\n\nRoyal Botanic Gardens, Kew\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSara Martín Hernanz\n\n\nUniversidad de Sevilla\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPablo Aguado Ramsay\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrancisco Javier Jimenez Lopez\n\n\nUniversidad Rey Juan Carlos.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdrián García Rodríguez\n\n\nTragsatec, Técnico de Medio Natural\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInés Álvarez Fernández\n\n\nRJB-CSIC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEstrella Alfaro Saiz\n\n\nUniversidad de León.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJorge Miguel Isabel Rufo\n\n\nTragsatec\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuan Carlos Velázquez Melero\n\n\nTragsatec.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlberto José Coello Garrido\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAngélica Gallego Narbón\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlberto Luis Cantoral González\n\n\nAgente Medioambiental CyL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMar Génova Fuster\n\n\nUniversidad Politécnica de Madrid.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElena García Ruitiña\n\n\nIngeniera Técnico del Área de Conservación de Montes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFernando Pomeda Gutiérrez\n\n\nUniversidad Rey Juan Carlos (URJC)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarlos Morla Juaristi\n\n\nProfesor jubilado\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMario Mairal Pisa\n\n\nUniversidad Complutense de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMontserrat Gil Cortés\n\n\nTécnico de Medio ambiente\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnrique Luengo Nicolau\n\n\nARBA-Asociación Recuperación Bosque Autóctono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRosario Rebole\n\n\nTragsatec Técnico\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSara Sanchez Carmona\n\n\nUniversidad del País Vasco (UPV-EHU)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrati Sanz Zubizarreta\n\n\nUniversidad del País Vasco (UPV-EHU)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJokin Belmonte Torres\n\n\nUniversidad del País Vasco (UPV-EHU)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVíctor González García\n\n\nInstituto Mixto de Investigación en Biodiversidad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdrián Lázaro Lobo\n\n\nInstituto Mixto de Investigación en Biodiversidad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEduardo Fernández Pascual\n\n\nInstituto Mixto de Investigación en Biodiversidad\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "En esta página web puedes encontrar información acerca de los paneles de flora.\n\nPara cualquier duda, no dudéis en contactar con nosotros!",
+    "crumbs": [
+      "Inicio"
+    ]
   }
 ]

@@ -1,1 +1,1 @@
-Sitemap: https://github.com/se-bota/sebota-I/sitemap.xml
+Sitemap: https://HerbarioDocenteUAM.github.io/Paneles/sitemap.xml
