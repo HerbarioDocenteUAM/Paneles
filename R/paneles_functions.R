@@ -27,46 +27,46 @@ create_panel <- function(data = data,
                                    keep.files = FALSE,
                                    template = NULL
 ){
-  
+
   ## Check arguments
-  
+
   if (is.null(data)) {
     stop("Please provide a data.frame or tibble.")
   }
   if ((!(all(class(data) == "data.frame"))) & any(class(data) == "data.frame")) {data <- as.data.frame(data)}
   if (!inherits(data, "data.frame")) {stop("The 'data' object must be a data frame.")}
   data <- fill_NAs_df(data)
-  
+
   if (is.null(path)) {stop("A folder path must be specified.")}
   if (!file.exists(path)) {
     message("The specified folder does not exist. Creating folder")
     dir.create(path)
   }
-  
+
   if (is.null(filename)) {
     message("No file name provided")
     filename <- "Herbarium"
   }
-  
-  
+
+
   if (any(apply(data, 1, nchar) > 150)) {
     message("Too long texts may give undesired results. Please consider shortening long fields.")
   }
-  
-  
+
+
   if (is.null(title)) {
     message("No title provided")
     title <- ""
   }
-  
+
   if (is.null(subtitle)) {
     message("No subtitle provided")
     subtitle <- ""
   }
-  
-  
+
+
   ## QR code
-  
+
   if (!is.null(qr)) {
     stopifnot(is.character(qr))
     # If qr is not a column in data, use same qr for all items
@@ -80,24 +80,24 @@ create_panel <- function(data = data,
     data$qr <- ""
     qr <- "qr"    # used later for selecting column
   }
-  
-  
-  
-  
+
+
+
+
   if (!is.null(family.column)) {
     check_column_in_df(data, family.column)
     data[,family.column] <- toupper(data[,family.column])
   }
-  
+
   if (!is.null(edafico.column)) {
     check_column_in_df(data, edafico.column)
     data[,edafico.column] <- as.character(data[,edafico.column])
   }
-  
-  
-  
+
+
+
   ## Check columns are in data or create empty characters if NULL
-  
+
   family.column           <- check_column_or_create_empty_char(data, family.column)
   taxon.column            <- check_column_or_create_empty_char(data, taxon.column)
   author.column           <- check_column_or_create_empty_char(data, author.column)
@@ -117,8 +117,8 @@ create_panel <- function(data = data,
   localidad.column        <- check_column_or_create_empty_char(data, localidad.column)
   habito.column           <- check_column_or_create_empty_char(data, habito.column)
   fecha.column            <- check_column_or_create_empty_char(data, fecha.column)
-  
-  
+
+
   arguments <- c(family.column           ,
                  taxon.column            ,
                  author.column           ,
@@ -138,24 +138,24 @@ create_panel <- function(data = data,
                  habito.column           ,
                  fecha.column            )
   arguments <- arguments[arguments != ""]
-  
+
   data <- check_latex_columns(data, arguments)
-  
-  
-  
-  
-  
+
+
+
+
+
   ## Keep intermediate files? If no, using tempdir for intermediate files
   if (!isTRUE(keep.files)) {
     folder <- tempdir()
   } else {
     folder <- path  # all files will remain there
   }
-  
-  
-  
+
+
+
   #### Defining Rmd template to use ####
-  
+
   if (is.null(template)) { # use pkg default
     file.copy(
       from = system.file("rmarkdown/templates/herbarium/skeleton/skeleton.Rmd", package = "labeleR"),
@@ -163,7 +163,7 @@ create_panel <- function(data = data,
       overwrite = TRUE
     )
   }
-  
+
   if (!is.null(template)) {
     stopifnot(file.exists(template))
     if (template != file.path(folder, "herbarium.Rmd")) {
@@ -174,63 +174,63 @@ create_panel <- function(data = data,
       )
     }
   }
-  
+
   #### Logos ####
-  
+
   use_image(lpic, name = "lpic", folder = folder)
   use_image(rpic, name = "rpic", folder = folder)
 
   #### Mapas #####
-  
+
   species <- data[,taxon.column]
 
-  
+
   for(sp in species){
-    
+
     sp <- gsub(" ", "_", sp)
     sp <- gsub("\\.", "",sp)
-    
-    if(file.exists(paste0("maps/results/europe/", sp, ".png"))){next}else{
-      use_image("maps/results/europe/blank.png", name=paste0(sp), "maps/results/europe")
+
+    if(file.exists(paste0("R/maps/results/europe/", sp, ".png"))){next}else{
+      use_image("R/maps/results/europe/blank.png", name=paste0(sp), "maps/results/europe")
     }
   }
-  
+
   for(sp in species){
-    
+
     sp <- gsub(" ", "_", sp)
-    
-    if(file.exists(paste0("maps/results/iberia/", sp, ".png"))){next}else{
-      use_image("maps/results/iberia/blank.png", name=paste0(sp), "maps/results/iberia")
+
+    if(file.exists(paste0("R/maps/results/iberia/", sp, ".png"))){next}else{
+      use_image("R/maps/results/iberia/blank.png", name=paste0(sp), "maps/results/iberia")
     }
-  } 
+  }
 
-  fs::dir_copy("maps",folder)
+  fs::dir_copy("R/maps",folder)
 
-  # 
+  #
   # mapeurope <- paste0("maps/results/europe/", species[1] , ".png") #se especifica el archivo del nombre del mapa
   # if (! file.exists(mapeurope )){mapeurope <- NULL} #si el mapa no existe, que saque un blanco
   # use_image(mapeurope, "mapeurope.png", folder = folder) #crea la imagen en el dir temporal
-  # 
+  #
   # mapiberia <- paste0("maps/results/iberia/", species[1] , ".png")
   # if (! file.exists(mapiberia )){mapiberia <- NULL}
   # use_image(mapiberia, "mapiberia.png", folder = folder)
-  
-  
-  
-  
-  
+
+
+
+
+
   #### Render #####
-  
+
   data <- as.data.frame(data) ## to exploit drop = TRUE when selecting cols below
-  
+
   for (i in 1:nrow(data)) {
     out.name <- filename
     out.name <- paste0(out.name, "_", data[i, taxon.column], "_",gsub("/","-", data[i, family.column]))
     output_file <- paste0(out.name,'.pdf')
-    
+
     bl.char <- "~"
-  
-  
+
+
   rmarkdown::render(
     input = file.path(folder, "herbarium.Rmd"),
     output_dir = path,
@@ -259,7 +259,7 @@ create_panel <- function(data = data,
       fecha.i            = if (fecha.column            == "") {bl.char} else {data[i,fecha.column]}
     )
   )
-  
+
 }
 
 }
@@ -299,7 +299,7 @@ fill_NAs_df <- function(df = NULL){
   df <- as.data.frame(mat)
   colnames(df) <- cols
   rownames(df) <- rows
-  
+
   return(df)
 }
 
@@ -307,7 +307,7 @@ fill_NAs_df <- function(df = NULL){
 #### Check columns in data
 
 check_column_in_df <- function(df = NULL, column = NULL) {
-  
+
   stopifnot(is.character(column))
   if (!(column) %in% colnames(df)) {
     stop("Column '", column ,
@@ -318,16 +318,16 @@ check_column_in_df <- function(df = NULL, column = NULL) {
 
 
 check_column_or_create_empty_char <- function(df = NULL, column = NULL) {
-  
+
   if (!is.null(column)) {
     check_column_in_df(df, column)
     out <- column
   } else {
     out <- ""
   }
-  
+
   out
-  
+
 }
 
 
@@ -335,7 +335,7 @@ check_column_or_create_empty_char <- function(df = NULL, column = NULL) {
 ## or create blank small images if not provided (NULL)
 
 use_image <- function(image = NULL, name = NULL, folder = NULL) {
-  
+
   ## If logos provided
   if (!is.null(image)) {
     if (!file.exists(image)) {
@@ -346,16 +346,16 @@ use_image <- function(image = NULL, name = NULL, folder = NULL) {
                 overwrite = TRUE)
     }
   }
-  
+
   ## If logos not provided
   if (is.null(image)) {  # create blank image
     oldpar <- graphics::par(no.readonly = TRUE)
     on.exit(suppressWarnings(graphics::par(oldpar)))
-    
+
     grDevices::png(file.path(folder, paste0(name, ".png")), 150, 150, "px")
     graphics::par(bg = "transparent")
     graphics::plot.new()
     grDevices::dev.off()
   }
-  
+
 }

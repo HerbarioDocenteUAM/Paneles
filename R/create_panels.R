@@ -4,6 +4,7 @@ library(labeleR)
 library(openxlsx)
 library(tidyr)
 
+source("R/paneles_functions.R")
 paneles <- read_excel("R/paneles_info.xlsx", sheet=3)
  pruebafecha <- read_excel("R/paneles_info.xlsx", sheet=3, col_types = c("date"))
 colnames(paneles)
@@ -18,13 +19,14 @@ paneles$Especie[paneles$Especie=="Quercus ilex subsp. ballota (Q. rotundifolia)"
 paneles$Especie[paneles$Especie=="Quercus ilex subsp. ilex"] <- "Quercus ilex"
 paneles$Especie[paneles$Especie=="Quercus ilex subsp. ballota (Q. rotundifolia)"] <- "Quercus rotundifolia"
 
+paneles$qr <- paste0("https://herbariodocenteuam.github.io/Paneles/paneles/",gsub(" ", "_", paneles$Especie),".html")
 tempfile()
 
 create_panel(
   data = paneles[1:2,],
   path = "labeleR_output",
   filename = "paneles",
-  #qr = NULL,
+  qr = "qr",
   title ="Herbario Docente MA-UAM" ,
   subtitle = "Paneles de flora - Unidad de Botánica - Departamento de Biología UAM",
   family.column = "Familia",
@@ -42,12 +44,12 @@ create_panel(
   reproduccion.column = "Sistema_reproductivo",
   hoja.column = "Tipo_hoja",
   filotaxis.column = "Filotaxis",
-  localidad.column = "Localidad",
+  # localidad.column = "Localidad",
   habito.column = "Habito",
-  lpic="marcaUAM_AhorizontalNegro.png",
-  rpic="bot_logo_2023.png",
-  fecha.column = "Fecha_recoleccion",
-  template="paneles.Rmd"
+  lpic="R/marcaUAM_AhorizontalNegro.png",
+  rpic="R/bot_logo_2023.png",
+  # fecha.column = "Fecha_recoleccion",
+  template="R/paneles.Rmd"
 )
 
 
