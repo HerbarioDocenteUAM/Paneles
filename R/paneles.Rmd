@@ -143,12 +143,7 @@ params:
 \bigskip
 {\fontsize{12pt}{100pt}\selectfont `r params$usos.i`} \\
 
-\bigskip
 
-\begin{flushright}
-{\fontsize{7pt}{100pt}\selectfont Lugar de colección: `r params$localidad.i`} \\
-{\fontsize{7pt}{100pt}\selectfont Fecha de colección: `r params$fecha.i`} \\
-\end{flushright}
 
 \end{flushleft}
 \begin{center}
