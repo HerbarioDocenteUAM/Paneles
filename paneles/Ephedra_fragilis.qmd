@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Ephedra fragilis](paneles/Ephedra fragilis.jpg){width=95%}
+![Ephedra fragilis](paneles/Ephedra fragilis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Ephedra fragilis_EPHEDRACEAE.pdf"></iframe>

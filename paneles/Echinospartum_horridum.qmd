@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Echinospartum horridum](paneles/Echinospartum horridum.jpg){width=95%}
+![Echinospartum horridum](paneles/Echinospartum horridum.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Echinospartum horridum_FABACEAE.pdf"></iframe>

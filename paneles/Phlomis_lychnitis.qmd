@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Phlomis lychnitis](paneles/Phlomis lychnitis.jpg){width=95%}
+![Phlomis lychnitis](paneles/Phlomis lychnitis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Phlomis lychnitis_LAMIACEAE.pdf"></iframe>

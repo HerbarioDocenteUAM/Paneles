@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Ilex aquifolium](paneles/Ilex aquifolium.jpg){width=95%}
+![Ilex aquifolium](paneles/Ilex aquifolium.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Ilex aquifolium_AQUIFOLIACEAE.pdf"></iframe>

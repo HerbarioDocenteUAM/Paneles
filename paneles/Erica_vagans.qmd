@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erica vagans](paneles/Erica vagans.jpg){width=95%}
+![Erica vagans](paneles/Erica vagans.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Erica vagans_ERICACEAE.pdf"></iframe>

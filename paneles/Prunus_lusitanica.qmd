@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Prunus lusitanica](paneles/Prunus lusitanica.jpg){width=95%}
+![Prunus lusitanica](paneles/Prunus lusitanica.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Prunus lusitanica_ROSACEAE.pdf"></iframe>

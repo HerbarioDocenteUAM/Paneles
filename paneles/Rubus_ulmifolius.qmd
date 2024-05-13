@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Rubus ulmifolius](paneles/Rubus ulmifolius.jpg){width=95%}
+![Rubus ulmifolius](paneles/Rubus ulmifolius.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Rubus ulmifolius_ROSACEAE.pdf"></iframe>

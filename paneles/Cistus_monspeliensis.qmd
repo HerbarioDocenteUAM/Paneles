@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cistus monspeliensis](paneles/Cistus monspeliensis.jpg){width=95%}
+![Cistus monspeliensis](paneles/Cistus monspeliensis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Cistus monspeliensis_CISTACEAE.pdf"></iframe>

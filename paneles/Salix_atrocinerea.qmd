@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Salix atrocinerea](paneles/Salix atrocinerea.jpg){width=95%}
+![Salix atrocinerea](paneles/Salix atrocinerea.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Salix atrocinerea_SALICACEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Acer opalus](paneles/Acer opalus.jpg){width=95%}
+![Acer opalus](paneles/Acer opalus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Acer opalus_ACERACEAE.pdf"></iframe>

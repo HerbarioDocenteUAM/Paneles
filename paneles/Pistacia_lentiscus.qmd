@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Pistacia lentiscus](paneles/Pistacia lentiscus.jpg){width=95%}
+![Pistacia lentiscus](paneles/Pistacia lentiscus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Pistacia lentiscus_ANACARDIACEAE.pdf"></iframe>

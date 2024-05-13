@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erica australis](paneles/Erica australis.jpg){width=95%}
+![Erica australis](paneles/Erica australis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Erica australis_ERICACEAE.pdf"></iframe>

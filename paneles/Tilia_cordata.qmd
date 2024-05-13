@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Tilia cordata](paneles/Tilia cordata.jpg){width=95%}
+![Tilia cordata](paneles/Tilia cordata.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Tilia cordata_TILIACEAE.pdf"></iframe>

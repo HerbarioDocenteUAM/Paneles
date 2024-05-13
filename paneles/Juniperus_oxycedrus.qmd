@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Juniperus oxycedrus](paneles/Juniperus oxycedrus.jpg){width=95%}
+![Juniperus oxycedrus](paneles/Juniperus oxycedrus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Juniperus oxycedrus_CUPRESACEAE.pdf"></iframe>

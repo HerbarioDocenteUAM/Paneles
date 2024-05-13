@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Quercus pyrenaica](paneles/Quercus pyrenaica.jpg){width=95%}
+![Quercus pyrenaica](paneles/Quercus pyrenaica.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Quercus pyrenaica_FAGACEAE.pdf"></iframe>

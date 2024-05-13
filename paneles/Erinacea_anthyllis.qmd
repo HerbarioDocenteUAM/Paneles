@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erinacea anthyllis](paneles/Erinacea anthyllis.jpg){width=95%}
+![Erinacea anthyllis](paneles/Erinacea anthyllis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Erinacea anthyllis_FABACEAE.pdf"></iframe>

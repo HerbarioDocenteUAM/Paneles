@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Lavandula latifolia](paneles/Lavandula latifolia.jpg){width=95%}
+![Lavandula latifolia](paneles/Lavandula latifolia.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Lavandula latifolia_LAMIACEAE.pdf"></iframe>

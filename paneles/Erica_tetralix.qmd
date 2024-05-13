@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erica tetralix](paneles/Erica tetralix.jpg){width=95%}
+![Erica tetralix](paneles/Erica tetralix.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Erica tetralix_ERICACEAE.pdf"></iframe>

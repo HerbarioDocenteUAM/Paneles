@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Frangula alnus](paneles/Frangula alnus.jpg){width=95%}
+![Frangula alnus](paneles/Frangula alnus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Frangula alnus_RHAMNACEAE.pdf"></iframe>

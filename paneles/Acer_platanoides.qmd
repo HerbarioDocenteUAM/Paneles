@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Acer platanoides](paneles/Acer platanoides.jpg){width=95%}
+![Acer platanoides](paneles/Acer platanoides.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Acer platanoides_ACERACEAE.pdf"></iframe>

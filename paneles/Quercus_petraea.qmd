@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Quercus petraea](paneles/Quercus petraea.jpg){width=95%}
+![Quercus petraea](paneles/Quercus petraea.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Quercus petraea_FAGACEAE.pdf"></iframe>

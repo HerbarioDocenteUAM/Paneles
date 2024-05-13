@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Acer monspessulanum](paneles/Acer monspessulanum.jpg){width=95%}
+![Acer monspessulanum](paneles/Acer monspessulanum.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Acer monspessulanum_ACERACEAE.pdf"></iframe>

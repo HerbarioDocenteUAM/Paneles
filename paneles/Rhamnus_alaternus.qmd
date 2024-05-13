@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Rhamnus alaternus](paneles/Rhamnus alaternus.jpg){width=95%}
+![Rhamnus alaternus](paneles/Rhamnus alaternus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Rhamnus alaternus_RHAMNACEAE.pdf"></iframe>

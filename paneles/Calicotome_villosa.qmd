@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Calicotome villosa](paneles/Calicotome villosa.jpg){width=95%}
+![Calicotome villosa](paneles/Calicotome villosa.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Calicotome villosa_FABACEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Thymus mastichina](paneles/Thymus mastichina.jpg){width=95%}
+![Thymus mastichina](paneles/Thymus mastichina.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Thymus mastichina_LAMIACEAE.pdf"></iframe>

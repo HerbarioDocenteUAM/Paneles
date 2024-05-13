@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Salvia lavandulifolia](paneles/Salvia lavandulifolia.jpg){width=95%}
+![Salvia lavandulifolia](paneles/Salvia lavandulifolia.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Salvia lavandulifolia_LAMIACEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Quercus canariensis](paneles/Quercus canariensis.jpg){width=95%}
+![Quercus canariensis](paneles/Quercus canariensis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Quercus canariensis_FAGACEAE.pdf"></iframe>

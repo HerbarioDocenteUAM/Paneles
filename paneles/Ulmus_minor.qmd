@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Ulmus minor](paneles/Ulmus minor.jpg){width=95%}
+![Ulmus minor](paneles/Ulmus minor.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Ulmus minor_ULMACEAE.pdf"></iframe>

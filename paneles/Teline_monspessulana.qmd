@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Teline monspessulana](paneles/Teline monspessulana.jpg){width=95%}
+![Teline monspessulana](paneles/Teline monspessulana.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Teline monspessulana_FABACEAE.pdf"></iframe>

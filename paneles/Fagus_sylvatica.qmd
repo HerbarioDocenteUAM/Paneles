@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Fagus sylvatica](paneles/Fagus sylvatica.jpg){width=95%}
+![Fagus sylvatica](paneles/Fagus sylvatica.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Fagus sylvatica_FAGACEAE.pdf"></iframe>

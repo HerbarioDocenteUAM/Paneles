@@ -28,7 +28,7 @@ about:
 :::
 
 
-![",sp,"](paneles/",sp,".jpg){width=95%}
+![",sp,"](paneles/",sp,".png){width=95%}
 
 <iframe width=\"100%\" height=\"600\" src=\"fichas/paneles_",sp,"_",toupper(fam),".pdf\"></iframe>"))
 sink()

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Spartium junceum](paneles/Spartium junceum.jpg){width=95%}
+![Spartium junceum](paneles/Spartium junceum.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Spartium junceum_FABACEAE.pdf"></iframe>

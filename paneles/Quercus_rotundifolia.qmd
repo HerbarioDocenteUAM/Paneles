@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Quercus rotundifolia](paneles/Quercus rotundifolia.jpg){width=95%}
+![Quercus rotundifolia](paneles/Quercus rotundifolia.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Quercus rotundifolia_FAGACEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Fraxinus ornus](paneles/Fraxinus ornus.jpg){width=95%}
+![Fraxinus ornus](paneles/Fraxinus ornus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Fraxinus ornus_OLEACEAE.pdf"></iframe>

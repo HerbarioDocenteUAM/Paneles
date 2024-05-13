@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Stauracanthus sp.](paneles/Stauracanthus sp..jpg){width=95%}
+![Stauracanthus sp.](paneles/Stauracanthus sp..png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Stauracanthus sp._FABACEAE.pdf"></iframe>

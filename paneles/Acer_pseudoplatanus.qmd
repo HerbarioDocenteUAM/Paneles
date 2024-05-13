@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Acer pseudoplatanus](paneles/Acer pseudoplatanus.jpg){width=95%}
+![Acer pseudoplatanus](paneles/Acer pseudoplatanus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Acer pseudoplatanus_ACERACEAE.pdf"></iframe>

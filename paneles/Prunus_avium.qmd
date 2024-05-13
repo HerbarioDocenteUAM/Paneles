@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Prunus avium](paneles/Prunus avium.jpg){width=95%}
+![Prunus avium](paneles/Prunus avium.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Prunus avium_ROSACEAE.pdf"></iframe>

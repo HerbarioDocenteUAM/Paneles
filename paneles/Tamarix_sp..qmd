@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Tamarix sp.](paneles/Tamarix sp..jpg){width=95%}
+![Tamarix sp.](paneles/Tamarix sp..png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Tamarix sp._TAMARICAEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cistus ladanifer](paneles/Cistus ladanifer.jpg){width=95%}
+![Cistus ladanifer](paneles/Cistus ladanifer.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Cistus ladanifer_CISTACEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cistus psilosepalus](paneles/Cistus psilosepalus.jpg){width=95%}
+![Cistus psilosepalus](paneles/Cistus psilosepalus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Cistus psilosepalus_CISTACEAE.pdf"></iframe>

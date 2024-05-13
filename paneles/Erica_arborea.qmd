@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erica arborea](paneles/Erica arborea.jpg){width=95%}
+![Erica arborea](paneles/Erica arborea.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Erica arborea_ERICACEAE.pdf"></iframe>

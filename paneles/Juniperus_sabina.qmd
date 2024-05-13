@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Juniperus sabina](paneles/Juniperus sabina.jpg){width=95%}
+![Juniperus sabina](paneles/Juniperus sabina.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Juniperus sabina_CUPRESACEAE.pdf"></iframe>

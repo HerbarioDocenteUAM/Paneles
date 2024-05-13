@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erica umbellata](paneles/Erica umbellata.jpg){width=95%}
+![Erica umbellata](paneles/Erica umbellata.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Erica umbellata_ERICACEAE.pdf"></iframe>

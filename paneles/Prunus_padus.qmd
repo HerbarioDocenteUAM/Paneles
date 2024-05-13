@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Prunus padus](paneles/Prunus padus.jpg){width=95%}
+![Prunus padus](paneles/Prunus padus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Prunus padus_ROSACEAE.pdf"></iframe>

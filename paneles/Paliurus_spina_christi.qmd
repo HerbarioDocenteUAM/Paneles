@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Paliurus spina christi](paneles/Paliurus spina christi.jpg){width=95%}
+![Paliurus spina christi](paneles/Paliurus spina christi.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Paliurus spina christi_RHAMNACEAE.pdf"></iframe>

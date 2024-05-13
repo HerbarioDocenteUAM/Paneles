@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Lycopodium alpinum](paneles/Lycopodium alpinum.jpg){width=95%}
+![Lycopodium alpinum](paneles/Lycopodium alpinum.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Lycopodium alpinum_LYCOPODIACEAE.pdf"></iframe>

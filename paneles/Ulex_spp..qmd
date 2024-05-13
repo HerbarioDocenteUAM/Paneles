@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Ulex spp.](paneles/Ulex spp..jpg){width=95%}
+![Ulex spp.](paneles/Ulex spp..png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Ulex spp._FABACEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Viburnum lantana](paneles/Viburnum lantana.jpg){width=95%}
+![Viburnum lantana](paneles/Viburnum lantana.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Viburnum lantana_VIBURNACEAE.pdf"></iframe>

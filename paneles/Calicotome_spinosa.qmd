@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Calicotome spinosa](paneles/Calicotome spinosa.jpg){width=95%}
+![Calicotome spinosa](paneles/Calicotome spinosa.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Calicotome spinosa_FABACEAE.pdf"></iframe>

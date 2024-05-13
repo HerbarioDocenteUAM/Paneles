@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Lavandula stoechas](paneles/Lavandula stoechas.jpg){width=95%}
+![Lavandula stoechas](paneles/Lavandula stoechas.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Lavandula stoechas_LAMIACEAE.pdf"></iframe>

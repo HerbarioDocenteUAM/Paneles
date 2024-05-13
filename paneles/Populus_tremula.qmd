@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Populus tremula](paneles/Populus tremula.jpg){width=95%}
+![Populus tremula](paneles/Populus tremula.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Populus tremula_SALICACEAE.pdf"></iframe>

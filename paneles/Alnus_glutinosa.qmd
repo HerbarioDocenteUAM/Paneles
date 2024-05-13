@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Alnus glutinosa](paneles/Alnus glutinosa.jpg){width=95%}
+![Alnus glutinosa](paneles/Alnus glutinosa.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Alnus glutinosa_BETULACEAE.pdf"></iframe>

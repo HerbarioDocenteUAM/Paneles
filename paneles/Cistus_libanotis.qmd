@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cistus libanotis](paneles/Cistus libanotis.jpg){width=95%}
+![Cistus libanotis](paneles/Cistus libanotis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Cistus libanotis_CISTACEAE.pdf"></iframe>

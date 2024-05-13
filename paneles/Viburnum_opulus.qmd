@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Viburnum opulus](paneles/Viburnum opulus.jpg){width=95%}
+![Viburnum opulus](paneles/Viburnum opulus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Viburnum opulus_VIBURNACEAE.pdf"></iframe>

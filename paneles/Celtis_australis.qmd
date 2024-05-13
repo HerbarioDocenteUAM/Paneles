@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Celtis australis](paneles/Celtis australis.jpg){width=95%}
+![Celtis australis](paneles/Celtis australis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Celtis australis_CANNABACEAE.pdf"></iframe>

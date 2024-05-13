@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Rhododendron ferrugineum](paneles/Rhododendron ferrugineum.jpg){width=95%}
+![Rhododendron ferrugineum](paneles/Rhododendron ferrugineum.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Rhododendron ferrugineum_ERICACEAE.pdf"></iframe>

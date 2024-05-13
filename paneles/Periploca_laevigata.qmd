@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Periploca laevigata](paneles/Periploca laevigata.jpg){width=95%}
+![Periploca laevigata](paneles/Periploca laevigata.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Periploca laevigata_APOCYNACEAE.pdf"></iframe>

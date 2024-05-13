@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Laurus nobilis](paneles/Laurus nobilis.jpg){width=95%}
+![Laurus nobilis](paneles/Laurus nobilis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Laurus nobilis_LAURACEAE.pdf"></iframe>

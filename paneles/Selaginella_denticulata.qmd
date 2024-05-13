@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Selaginella denticulata](paneles/Selaginella denticulata.jpg){width=95%}
+![Selaginella denticulata](paneles/Selaginella denticulata.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Selaginella denticulata_SELAGINELLACEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cistus laurifolius](paneles/Cistus laurifolius.jpg){width=95%}
+![Cistus laurifolius](paneles/Cistus laurifolius.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Cistus laurifolius_CISTACEAE.pdf"></iframe>

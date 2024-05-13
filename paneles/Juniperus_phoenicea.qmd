@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Juniperus phoenicea](paneles/Juniperus phoenicea.jpg){width=95%}
+![Juniperus phoenicea](paneles/Juniperus phoenicea.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Juniperus phoenicea_CUPRESACEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erica scoparia](paneles/Erica scoparia.jpg){width=95%}
+![Erica scoparia](paneles/Erica scoparia.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Erica scoparia_ERICACEAE.pdf"></iframe>

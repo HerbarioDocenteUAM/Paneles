@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Quercus coccifera](paneles/Quercus coccifera.jpg){width=95%}
+![Quercus coccifera](paneles/Quercus coccifera.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Quercus coccifera_FAGACEAE.pdf"></iframe>

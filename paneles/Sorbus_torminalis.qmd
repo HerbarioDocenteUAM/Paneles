@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Sorbus torminalis](paneles/Sorbus torminalis.jpg){width=95%}
+![Sorbus torminalis](paneles/Sorbus torminalis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Sorbus torminalis_ROSACEAE.pdf"></iframe>

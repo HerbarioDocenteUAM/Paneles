@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Ulmus laevis](paneles/Ulmus laevis.jpg){width=95%}
+![Ulmus laevis](paneles/Ulmus laevis.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Ulmus laevis_ULMACEAE.pdf"></iframe>

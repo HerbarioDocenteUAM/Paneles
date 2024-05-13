@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Buxus sempervirens](paneles/Buxus sempervirens.jpg){width=95%}
+![Buxus sempervirens](paneles/Buxus sempervirens.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Buxus sempervirens_BUXACEAS.pdf"></iframe>

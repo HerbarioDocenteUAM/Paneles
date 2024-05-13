@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Taxus baccata](paneles/Taxus baccata.jpg){width=95%}
+![Taxus baccata](paneles/Taxus baccata.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Taxus baccata_TAXACEAE.pdf"></iframe>

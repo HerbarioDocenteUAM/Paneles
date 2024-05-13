@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Lycopodium sp.](paneles/Lycopodium sp..jpg){width=95%}
+![Lycopodium sp.](paneles/Lycopodium sp..png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Lycopodium sp._LYCOPODIACEAE.pdf"></iframe>

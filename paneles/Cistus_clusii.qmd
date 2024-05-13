@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cistus clusii](paneles/Cistus clusii.jpg){width=95%}
+![Cistus clusii](paneles/Cistus clusii.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Cistus clusii_CISTACEAE.pdf"></iframe>

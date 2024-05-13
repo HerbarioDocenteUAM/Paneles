@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Genista florida](paneles/Genista florida.jpg){width=95%}
+![Genista florida](paneles/Genista florida.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Genista florida_FABACEAE.pdf"></iframe>

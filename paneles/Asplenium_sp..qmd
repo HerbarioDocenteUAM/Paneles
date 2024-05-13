@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Asplenium sp.](paneles/Asplenium sp..jpg){width=95%}
+![Asplenium sp.](paneles/Asplenium sp..png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Asplenium sp._ASPLENIACEAE.pdf"></iframe>

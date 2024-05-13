@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Polypodium sp.](paneles/Polypodium sp..jpg){width=95%}
+![Polypodium sp.](paneles/Polypodium sp..png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Polypodium sp._POLYPODIACEAE.pdf"></iframe>

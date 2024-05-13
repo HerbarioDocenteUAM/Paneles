@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Isoetes sp.](paneles/Isoetes sp..jpg){width=95%}
+![Isoetes sp.](paneles/Isoetes sp..png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Isoetes sp._ISOETACEAE.pdf"></iframe>

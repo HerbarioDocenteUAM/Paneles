@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Rhododendron ponticum](paneles/Rhododendron ponticum.jpg){width=95%}
+![Rhododendron ponticum](paneles/Rhododendron ponticum.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Rhododendron ponticum_ERICACEAE.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Euonymus europaeus](paneles/Euonymus europaeus.jpg){width=95%}
+![Euonymus europaeus](paneles/Euonymus europaeus.png){width=95%}
 
 <iframe width="100%" height="600" src="fichas/paneles_Euonymus europaeus_CELASTRACEAE.pdf"></iframe>
