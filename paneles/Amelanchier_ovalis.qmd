@@ -1,0 +1,18 @@
+---
+title: Amelanchier ovalis
+sortby: 11
+subtitle: Rosaceae
+toc: false
+about:
+  id: profile
+  template: marquee
+
+---
+
+:::{#profile}
+:::
+
+
+![Amelanchier ovalis](paneles/Amelanchier ovalis.jpg){width=95%}
+
+<iframe width="100%" height="600" src="fichas/paneles_Amelanchier ovalis_ROSACEAE.pdf"></iframe>

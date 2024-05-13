@@ -1,0 +1,158 @@
+---
+title: ''
+geometry: "left=2cm,right=2cm,top=1cm,bottom=1cm"
+output:
+  pdf_document: default
+header-includes:
+  - \usepackage{qrcode}
+  - \usepackage{ragged2e}
+  - \usepackage{helvet}
+  - \usepackage{times}
+params:
+  title: "" 
+  subtitle: ""
+  qr.i: ""
+  family.i: ""
+  taxon.i: ""
+  author.i: ""
+  vernaculo.i: ""
+  sinonimo.i: ""
+  descripcion.i: ""
+  edafico.i: ""
+  piso.i: ""
+  biotipo.i: ""
+  raunkier.i: ""
+  altitud.i: ""
+  usos.i: ""
+  reproduccion.i: ""
+  hoja.i: ""
+  filotaxis.i: ""
+  localidad.i: ""
+  habito.i: ""
+  fecha.i: ""
+  
+---
+\begin{center}
+\pagenumbering{gobble}
+
+% logos %
+
+\begin{minipage}{0.5\textwidth}
+\raggedright
+\includegraphics[width=.6\textwidth]{lpic.png}
+\end{minipage}\hfill
+\begin{minipage}{0.5\textwidth}
+\raggedleft
+\includegraphics[width=.4\textwidth]{rpic.png}
+\end{minipage}
+\vfill
+\bigskip
+\bigskip
+
+
+{\fontsize{24pt}{100pt}\selectfont\bf\color[HTML]{538085} Herbario docente MA-UAM }\\
+\vfill
+
+\bigskip
+
+\bigskip
+
+\end{center}
+
+\begin{flushleft}
+
+% QR
+\renewcommand\fbox{\fcolorbox{lightgray}{white}}
+\fbox{
+
+\begin{minipage}{0.615\textwidth} 
+\smallskip
+\smallskip
+
+{\fontsize{25pt}{100pt}\selectfont\emph{`r params$taxon.i` }}
+{\fontsize{15pt}{100pt}\selectfont `r params$author.i`} \\
+
+{\fontsize{15pt}{100pt}\selectfont `r params$family.i` } \\
+
+{\fontsize{12pt}{100pt}\selectfont Sinónimos:\emph{ `r params$sinonimo.i`}} \\
+{\fontsize{12pt}{100pt}\selectfont Nombres vernáculos: `r params$vernaculo.i`}
+
+\end{minipage}
+
+\begin{minipage}{0.35\textwidth}
+\raggedleft
+\qrcode[height=.9 in, version=5]{`r params$qr.i`}
+\end{minipage}
+
+}
+
+\begin {center}
+\renewcommand\fbox{\fcolorbox{white}{white}}
+\fbox{
+\begin{minipage}{0.25\textwidth} 
+{\fontsize{10pt}{100pt}\selectfont Reproducción: `r params$reproduccion.i`} \\
+{\fontsize{10pt}{100pt}\selectfont Hoja: `r params$hoja.i`}
+\end{minipage}
+
+\begin{minipage}{0.25\textwidth} 
+{\fontsize{10pt}{100pt}\selectfont Filotaxis: `r params$filotaxis.i`} \\
+{\fontsize{10pt}{100pt}\selectfont Hábito: `r params$habito.i`}
+\end{minipage}
+}
+
+\end{center}
+
+
+{\fontsize{17pt}{100pt}\selectfont\bf Descripción:} \\
+
+\bigskip
+{\fontsize{12pt}{100pt}\selectfont `r params$descripcion.i`} \\
+\bigskip
+\vfill
+\bigskip
+{\fontsize{17pt}{100pt}\selectfont\bf Distribución:} \\
+\bigskip
+\begin{figure}
+\centering
+\renewcommand\fbox{\fcolorbox{white}{white}}
+\fbox{
+\includegraphics[height=5.5cm]{maps/results/iberia/`r gsub(" ", "_", gsub("\\.", "", params$taxon.i))`.png}}
+\hspace{.80cm}
+\fbox{
+\includegraphics[height=5.5cm]{maps/results/europe/`r gsub(" ", "_", gsub("\\.", "", params$taxon.i))`.png}}
+\end{figure}
+\bigskip
+
+
+{\fontsize{17pt}{100pt}\selectfont\bf Ecología:} \\
+
+\bigskip
+{\fontsize{12pt}{100pt}\selectfont Biotipo: `r params$biotipo.i`, biotipo Raunkier: `r params$raunkier.i`}\\
+\smallskip
+{\fontsize{12pt}{100pt}\selectfont Preferencia edáfica: `r params$edafico.i`} \\
+\smallskip
+{\fontsize{12pt}{100pt}\selectfont Elevación: `r params$altitud.i`}\\
+\smallskip
+{\fontsize{12pt}{100pt}\selectfont Piso bioclimático: `r params$piso.i` } \\
+\vfill
+\bigskip
+
+
+{\fontsize{17pt}{100pt}\selectfont\bf Usos:} \\ 
+
+\bigskip
+{\fontsize{12pt}{100pt}\selectfont `r params$usos.i`} \\
+
+\bigskip
+
+\begin{flushright}
+{\fontsize{7pt}{100pt}\selectfont Lugar de colección: `r params$localidad.i`} \\
+{\fontsize{7pt}{100pt}\selectfont Fecha de colección: `r params$fecha.i`} \\
+\end{flushright}
+
+\end{flushleft}
+\begin{center}
+\bigskip
+{\fontsize{12pt}{100pt}\selectfont\bf\color[HTML]{538085} `r params$subtitle` }
+\end{center}
+\pagebreak
