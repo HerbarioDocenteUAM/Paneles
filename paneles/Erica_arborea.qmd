@@ -1,7 +1,7 @@
 ---
-title: Erica_arborea
+species: Erica_arborea
 sortby: 
-subtitle: Ericaceae
+family: Ericaceae
 toc: false
 about:
   id: profile

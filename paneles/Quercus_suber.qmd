@@ -1,7 +1,7 @@
 ---
-title: Quercus_suber
+species: Quercus_suber
 sortby: 
-subtitle: Fagaceae
+family: Fagaceae
 toc: false
 about:
   id: profile

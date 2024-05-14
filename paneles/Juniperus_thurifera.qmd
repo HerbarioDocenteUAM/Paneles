@@ -1,7 +1,7 @@
 ---
-title: Juniperus_thurifera
+species: Juniperus_thurifera
 sortby: 
-subtitle: Cupresaceae
+family: Cupresaceae
 toc: false
 about:
   id: profile

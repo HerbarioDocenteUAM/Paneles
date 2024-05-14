@@ -1,7 +1,7 @@
 ---
-title: Salix_caprea
+species: Salix_caprea
 sortby: 
-subtitle: Salicaceae
+family: Salicaceae
 toc: false
 about:
   id: profile

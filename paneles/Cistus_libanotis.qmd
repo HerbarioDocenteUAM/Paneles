@@ -1,7 +1,7 @@
 ---
-title: Cistus_libanotis
+species: Cistus_libanotis
 sortby: 
-subtitle: Cistaceae
+family: Cistaceae
 toc: false
 about:
   id: profile

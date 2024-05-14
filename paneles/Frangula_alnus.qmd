@@ -1,7 +1,7 @@
 ---
-title: Frangula_alnus
+species: Frangula_alnus
 sortby: 
-subtitle: Rhamnaceae
+family: Rhamnaceae
 toc: false
 about:
   id: profile

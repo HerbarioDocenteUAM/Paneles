@@ -1,7 +1,7 @@
 ---
-title: Tilia_platyphyllos
+species: Tilia_platyphyllos
 sortby: 
-subtitle: Tiliaceae
+family: Tiliaceae
 toc: false
 about:
   id: profile

@@ -1,7 +1,7 @@
 ---
-title: Euonymus_europaeus
+species: Euonymus_europaeus
 sortby: 
-subtitle: Celastraceae
+family: Celastraceae
 toc: false
 about:
   id: profile

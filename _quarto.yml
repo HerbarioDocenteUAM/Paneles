@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Paneles Flora UAM"
+  favicon: bot_icon.png
   sidebar:
     background: primary
     logo: "leaf.png"

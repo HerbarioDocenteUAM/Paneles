@@ -1,7 +1,7 @@
 ---
-title: Phillyrea_latifolia
+species: Phillyrea_latifolia
 sortby: 
-subtitle: Oleaceae
+family: Oleaceae
 toc: false
 about:
   id: profile

@@ -1,7 +1,7 @@
 ---
-title: Ilex_aquifolium
+species: Ilex_aquifolium
 sortby: 
-subtitle: Aquifoliaceae
+family: Aquifoliaceae
 toc: false
 about:
   id: profile

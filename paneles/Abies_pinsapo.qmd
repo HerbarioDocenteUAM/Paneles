@@ -1,7 +1,7 @@
 ---
-title: Abies_pinsapo
+species: Abies_pinsapo
 sortby: 
-subtitle: Pinaceae
+family: Pinaceae
 toc: false
 about:
   id: profile

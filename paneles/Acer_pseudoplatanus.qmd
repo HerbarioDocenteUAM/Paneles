@@ -1,7 +1,7 @@
 ---
-title: Acer_pseudoplatanus
+species: Acer_pseudoplatanus
 sortby: 
-subtitle: Aceraceae
+family: Aceraceae
 toc: false
 about:
   id: profile

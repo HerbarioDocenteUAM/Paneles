@@ -3,12 +3,14 @@
 listing:
   - id: Paneles
     contents: "paneles/*.qmd"
-    type: grid
+    type: table
     image-height: 100px
+    page-size: 48
     grid-columns: 5
     sort: sortby
-    fields: [image, title, subtitle, author]
+    fields: [image, species, family]
     grid-item-align: center
+    filter-ui: [species, family]
     
 ---
 

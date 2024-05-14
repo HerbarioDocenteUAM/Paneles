@@ -1,7 +1,7 @@
 ---
-title: Selaginella_denticulata
+species: Selaginella_denticulata
 sortby: 
-subtitle: Selaginellaceae
+family: Selaginellaceae
 toc: false
 about:
   id: profile

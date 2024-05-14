@@ -1,7 +1,7 @@
 ---
-title: Prunus_spinosa
+species: Prunus_spinosa
 sortby: 
-subtitle: Rosaceae
+family: Rosaceae
 toc: false
 about:
   id: profile

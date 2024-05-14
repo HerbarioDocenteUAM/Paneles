@@ -1,7 +1,7 @@
 ---
-title: Juniperus_communis
+species: Juniperus_communis
 sortby: 
-subtitle: Cupresaceae
+family: Cupresaceae
 toc: false
 about:
   id: profile

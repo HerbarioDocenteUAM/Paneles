@@ -1,7 +1,7 @@
 ---
-title: Tilia_cordata
+species: Tilia_cordata
 sortby: 
-subtitle: Tiliaceae
+family: Tiliaceae
 toc: false
 about:
   id: profile

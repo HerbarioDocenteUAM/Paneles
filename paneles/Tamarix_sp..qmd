@@ -1,7 +1,7 @@
 ---
-title: Tamarix_sp.
+species: Tamarix_sp.
 sortby: 
-subtitle: Tamaricaeae
+family: Tamaricaeae
 toc: false
 about:
   id: profile

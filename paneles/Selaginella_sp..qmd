@@ -1,7 +1,7 @@
 ---
-title: Selaginella_sp.
+species: Selaginella_sp.
 sortby: 
-subtitle: Selaginellaceae
+family: Selaginellaceae
 toc: false
 about:
   id: profile

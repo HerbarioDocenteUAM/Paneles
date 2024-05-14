@@ -1,7 +1,7 @@
 ---
-title: Spartium_junceum
+species: Spartium_junceum
 sortby: 
-subtitle: Fabaceae
+family: Fabaceae
 toc: false
 about:
   id: profile

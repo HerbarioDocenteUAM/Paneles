@@ -1,7 +1,7 @@
 ---
-title: Fraxinus_excelsior
+species: Fraxinus_excelsior
 sortby: 
-subtitle: Oleaceae
+family: Oleaceae
 toc: false
 about:
   id: profile

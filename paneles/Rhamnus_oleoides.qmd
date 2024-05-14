@@ -1,7 +1,7 @@
 ---
-title: Rhamnus_oleoides
+species: Rhamnus_oleoides
 sortby: 
-subtitle: Rhamnaceae
+family: Rhamnaceae
 toc: false
 about:
   id: profile

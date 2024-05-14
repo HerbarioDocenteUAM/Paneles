@@ -1,7 +1,7 @@
 ---
-title: Amelanchier_ovalis
+species: Amelanchier_ovalis
 sortby: 
-subtitle: Rosaceae
+family: Rosaceae
 toc: false
 about:
   id: profile

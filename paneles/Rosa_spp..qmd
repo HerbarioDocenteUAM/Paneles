@@ -1,7 +1,7 @@
 ---
-title: Rosa_spp.
+species: Rosa_spp.
 sortby: 
-subtitle: Rosaceae
+family: Rosaceae
 toc: false
 about:
   id: profile

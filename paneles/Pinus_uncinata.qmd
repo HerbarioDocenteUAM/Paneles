@@ -1,7 +1,7 @@
 ---
-title: Pinus_uncinata
+species: Pinus_uncinata
 sortby: 
-subtitle: Pinaceae
+family: Pinaceae
 toc: false
 about:
   id: profile

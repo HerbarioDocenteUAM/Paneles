@@ -1,7 +1,7 @@
 ---
-title: Isoetes_sp.
+species: Isoetes_sp.
 sortby: 
-subtitle: Isoetaceae
+family: Isoetaceae
 toc: false
 about:
   id: profile

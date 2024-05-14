@@ -1,7 +1,7 @@
 ---
-title: Adenocarpus_complicatus
+species: Adenocarpus_complicatus
 sortby: 
-subtitle: Fabaceae
+family: Fabaceae
 toc: false
 about:
   id: profile

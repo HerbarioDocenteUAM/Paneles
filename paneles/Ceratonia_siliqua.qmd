@@ -1,7 +1,7 @@
 ---
-title: Ceratonia_siliqua
+species: Ceratonia_siliqua
 sortby: 
-subtitle: Fabaceae
+family: Fabaceae
 toc: false
 about:
   id: profile

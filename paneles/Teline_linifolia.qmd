@@ -1,7 +1,7 @@
 ---
-title: Teline_linifolia
+species: Teline_linifolia
 sortby: 
-subtitle: Fabaceae
+family: Fabaceae
 toc: false
 about:
   id: profile

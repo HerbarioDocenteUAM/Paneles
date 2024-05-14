@@ -1,7 +1,7 @@
 ---
-title: Lavandula_angustifolia
+species: Lavandula_angustifolia
 sortby: 
-subtitle: Lamiaceae
+family: Lamiaceae
 toc: false
 about:
   id: profile

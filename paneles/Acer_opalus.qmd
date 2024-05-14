@@ -1,7 +1,7 @@
 ---
-title: Acer_opalus
+species: Acer_opalus
 sortby: 
-subtitle: Aceraceae
+family: Aceraceae
 toc: false
 about:
   id: profile

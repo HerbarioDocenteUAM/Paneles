@@ -1,7 +1,7 @@
 ---
-title: Lycopodium_sp.
+species: Lycopodium_sp.
 sortby: 
-subtitle: Lycopodiaceae
+family: Lycopodiaceae
 toc: false
 about:
   id: profile

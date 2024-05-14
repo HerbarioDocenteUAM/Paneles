@@ -1,7 +1,7 @@
 ---
-title: Genista_hirsuta
+species: Genista_hirsuta
 sortby: 
-subtitle: Fabaceae
+family: Fabaceae
 toc: false
 about:
   id: profile

@@ -1,10 +1,10 @@
 ---
-title: "WEB DE PRUEBA DE PANELES"
+title: "WEB PANELES DE FLORA"
 ---
 
 En esta página web puedes encontrar información acerca de los paneles de flora.
 
-### ![](leaf.png)Para cualquier duda, no dudéis en contactar con nosotros!
+### ![](materials/leaf.png)Para cualquier duda, no dudéis en contactar con nosotros!
 
 
 

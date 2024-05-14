@@ -1,7 +1,7 @@
 ---
-title: Rosmarinus_officinalis
+species: Rosmarinus_officinalis
 sortby: 
-subtitle: Lamiaceae
+family: Lamiaceae
 toc: false
 about:
   id: profile

@@ -1,7 +1,7 @@
 ---
-title: Quercus_coccifera
+species: Quercus_coccifera
 sortby: 
-subtitle: Fagaceae
+family: Fagaceae
 toc: false
 about:
   id: profile

@@ -1,7 +1,7 @@
 ---
-title: Berberis_vulgaris
+species: Berberis_vulgaris
 sortby: 
-subtitle: Berberidaceae
+family: Berberidaceae
 toc: false
 about:
   id: profile

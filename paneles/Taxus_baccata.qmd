@@ -1,7 +1,7 @@
 ---
-title: Taxus_baccata
+species: Taxus_baccata
 sortby: 
-subtitle: Taxaceae
+family: Taxaceae
 toc: false
 about:
   id: profile

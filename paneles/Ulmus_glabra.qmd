@@ -1,7 +1,7 @@
 ---
-title: Ulmus_glabra
+species: Ulmus_glabra
 sortby: 
-subtitle: Ulmaceae
+family: Ulmaceae
 toc: false
 about:
   id: profile

@@ -1,7 +1,7 @@
 ---
-title: Betula_pendula
+species: Betula_pendula
 sortby: 
-subtitle: Betulaceae
+family: Betulaceae
 toc: false
 about:
   id: profile

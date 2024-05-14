@@ -1,7 +1,7 @@
 ---
-title: Cornus_sanguinea
+species: Cornus_sanguinea
 sortby: 
-subtitle: Cornaceae
+family: Cornaceae
 toc: false
 about:
   id: profile

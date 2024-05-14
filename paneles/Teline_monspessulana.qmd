@@ -1,7 +1,7 @@
 ---
-title: Teline_monspessulana
+species: Teline_monspessulana
 sortby: 
-subtitle: Fabaceae
+family: Fabaceae
 toc: false
 about:
   id: profile

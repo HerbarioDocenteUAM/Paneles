@@ -1,7 +1,7 @@
 ---
-title: Cistus_populifolius
+species: Cistus_populifolius
 sortby: 
-subtitle: Cistaceae
+family: Cistaceae
 toc: false
 about:
   id: profile

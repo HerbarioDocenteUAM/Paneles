@@ -1,7 +1,7 @@
 ---
-title: Cytisus_oromediterraneus
+species: Cytisus_oromediterraneus
 sortby: 
-subtitle: Fabaceae
+family: Fabaceae
 toc: false
 about:
   id: profile

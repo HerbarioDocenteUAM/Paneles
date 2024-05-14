@@ -1,7 +1,7 @@
 ---
-title: Thymus_mastichina
+species: Thymus_mastichina
 sortby: 
-subtitle: Lamiaceae
+family: Lamiaceae
 toc: false
 about:
   id: profile

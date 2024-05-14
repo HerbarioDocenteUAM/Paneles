@@ -1,7 +1,7 @@
 ---
-title: Acer_platanoides
+species: Acer_platanoides
 sortby: 
-subtitle: Aceraceae
+family: Aceraceae
 toc: false
 about:
   id: profile

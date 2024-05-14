@@ -1,7 +1,7 @@
 ---
-title: Paliurus_spina_christi
+species: Paliurus_spina_christi
 sortby: 
-subtitle: Rhamnaceae
+family: Rhamnaceae
 toc: false
 about:
   id: profile

@@ -1,7 +1,7 @@
 ---
-title: Cistus_salviifolius
+species: Cistus_salviifolius
 sortby: 
-subtitle: Cistaceae
+family: Cistaceae
 toc: false
 about:
   id: profile

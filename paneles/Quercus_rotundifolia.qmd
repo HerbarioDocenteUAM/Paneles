@@ -1,7 +1,7 @@
 ---
-title: Quercus_rotundifolia
+species: Quercus_rotundifolia
 sortby: 
-subtitle: Fagaceae
+family: Fagaceae
 toc: false
 about:
   id: profile

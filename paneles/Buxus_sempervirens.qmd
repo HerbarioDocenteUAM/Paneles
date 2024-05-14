@@ -1,7 +1,7 @@
 ---
-title: Buxus_sempervirens
+species: Buxus_sempervirens
 sortby: 
-subtitle: Buxaceas
+family: Buxaceas
 toc: false
 about:
   id: profile

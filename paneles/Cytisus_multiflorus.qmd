@@ -1,7 +1,7 @@
 ---
-title: Cytisus_multiflorus
+species: Cytisus_multiflorus
 sortby: 
-subtitle: Fabaceae
+family: Fabaceae
 toc: false
 about:
   id: profile

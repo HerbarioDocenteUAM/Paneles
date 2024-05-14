@@ -1,7 +1,7 @@
 ---
-title: Sambucus_nigra
+species: Sambucus_nigra
 sortby: 
-subtitle: Viburnaceae
+family: Viburnaceae
 toc: false
 about:
   id: profile

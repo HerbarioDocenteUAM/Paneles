@@ -1,7 +1,7 @@
 ---
-title: Calicotome_villosa
+species: Calicotome_villosa
 sortby: 
-subtitle: Fabaceae
+family: Fabaceae
 toc: false
 about:
   id: profile

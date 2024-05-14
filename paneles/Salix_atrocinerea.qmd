@@ -1,7 +1,7 @@
 ---
-title: Salix_atrocinerea
+species: Salix_atrocinerea
 sortby: 
-subtitle: Salicaceae
+family: Salicaceae
 toc: false
 about:
   id: profile

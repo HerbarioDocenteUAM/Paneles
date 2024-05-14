@@ -1,7 +1,7 @@
 ---
-title: Cistus_monspeliensis
+species: Cistus_monspeliensis
 sortby: 
-subtitle: Cistaceae
+family: Cistaceae
 toc: false
 about:
   id: profile

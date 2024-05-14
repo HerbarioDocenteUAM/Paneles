@@ -1,7 +1,7 @@
 ---
-title: Erica_umbellata
+species: Erica_umbellata
 sortby: 
-subtitle: Ericaceae
+family: Ericaceae
 toc: false
 about:
   id: profile

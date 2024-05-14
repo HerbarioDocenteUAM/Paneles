@@ -1,7 +1,7 @@
 ---
-title: Celtis_australis
+species: Celtis_australis
 sortby: 
-subtitle: Cannabaceae
+family: Cannabaceae
 toc: false
 about:
   id: profile

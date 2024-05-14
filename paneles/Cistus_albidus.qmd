@@ -1,7 +1,7 @@
 ---
-title: Cistus_albidus
+species: Cistus_albidus
 sortby: 
-subtitle: Cistaceae
+family: Cistaceae
 toc: false
 about:
   id: profile

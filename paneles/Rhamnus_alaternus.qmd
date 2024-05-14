@@ -1,7 +1,7 @@
 ---
-title: Rhamnus_alaternus
+species: Rhamnus_alaternus
 sortby: 
-subtitle: Rhamnaceae
+family: Rhamnaceae
 toc: false
 about:
   id: profile

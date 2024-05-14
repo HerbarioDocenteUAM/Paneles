@@ -1,7 +1,7 @@
 ---
-title: Rhamnus_catartica
+species: Rhamnus_catartica
 sortby: 
-subtitle: Rhamnaceae
+family: Rhamnaceae
 toc: false
 about:
   id: profile
