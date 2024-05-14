@@ -3,13 +3,13 @@
 listing:
   - id: Paneles
     contents: "paneles/*.qmd"
-    type: table
+    type: default
     image-height: 100px
     page-size: 48
     grid-columns: 5
     sort: sortby
     fields: [image, species, family]
-    grid-item-align: center
+    grid-item-align: right
     filter-ui: [species, family]
     
 ---
