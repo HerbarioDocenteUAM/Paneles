@@ -11,7 +11,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/iramosgutierrez/paneles-prueba
+        href: https://github.com/HerbarioDocenteUAM/Paneles
         text: GitHub Herbario Docente UAM
     style: docked
     contents:
