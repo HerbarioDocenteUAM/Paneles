@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "WEB PANELES DE FLORA",
     "section": "",
-    "text": "En esta página web puedes encontrar información acerca de los paneles de flora.\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ignacio.ramosgutierrez@gmail.com)\n\n\nJuan Antonio Calleja Alarcón (juan.calleja@uam.es)\n\n\nNagore García Medina (nagore.garcia@uam.es)"
+    "text": "Para cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ignacio.ramosgutierrez@gmail.com)\n\n\nJuan Antonio Calleja Alarcón (juan.calleja@uam.es)\n\n\nNagore García Medina (nagore.garcia@uam.es)"
   },
   {
     "objectID": "Abies_pinsapo.html",
@@ -2322,5 +2322,12 @@
     "title": "Ziziphus lotus",
     "section": "",
     "text": "Ziziphus lotus"
+  },
+  {
+    "objectID": "paneles/Abies alba.html",
+    "href": "paneles/Abies alba.html",
+    "title": "Paneles Flora UAM",
+    "section": "",
+    "text": "Abies_alba"
   }
 ]
