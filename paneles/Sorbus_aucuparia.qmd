@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Sorbus_aucuparia](paneles/Sorbus_aucuparia.png){width=95%}
+![Sorbus_aucuparia](paneles/Sorbus_aucuparia.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Sorbus_aucuparia.pdf"></iframe>

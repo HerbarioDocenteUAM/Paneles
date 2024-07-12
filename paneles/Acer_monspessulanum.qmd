@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Acer_monspessulanum](paneles/Acer_monspessulanum.png){width=95%}
+![Acer_monspessulanum](paneles/Acer_monspessulanum.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Acer_monspessulanum.pdf"></iframe>

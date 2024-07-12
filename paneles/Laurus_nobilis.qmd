@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Laurus_nobilis](paneles/Laurus_nobilis.png){width=95%}
+![Laurus_nobilis](paneles/Laurus_nobilis.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Laurus_nobilis.pdf"></iframe>

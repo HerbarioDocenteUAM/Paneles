@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Corylus_avellana](paneles/Corylus_avellana.png){width=95%}
+![Corylus_avellana](paneles/Corylus_avellana.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Corylus_avellana.pdf"></iframe>

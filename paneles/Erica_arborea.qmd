@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Erica_arborea](paneles/Erica_arborea.png){width=95%}
+![Erica_arborea](paneles/Erica_arborea.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Erica_arborea.pdf"></iframe>

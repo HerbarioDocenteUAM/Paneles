@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Acer_campestre](paneles/Acer_campestre.png){width=95%}
+![Acer_campestre](paneles/Acer_campestre.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Acer_campestre.pdf"></iframe>

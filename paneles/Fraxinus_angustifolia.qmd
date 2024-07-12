@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Fraxinus_angustifolia](paneles/Fraxinus_angustifolia.png){width=95%}
+![Fraxinus_angustifolia](paneles/Fraxinus_angustifolia.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Fraxinus_angustifolia.pdf"></iframe>

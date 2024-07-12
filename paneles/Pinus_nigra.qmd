@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Pinus_nigra](paneles/Pinus_nigra.png){width=95%}
+![Pinus_nigra](paneles/Pinus_nigra.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Pinus_nigra.pdf"></iframe>

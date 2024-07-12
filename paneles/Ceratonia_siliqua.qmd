@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Ceratonia_siliqua](paneles/Ceratonia_siliqua.png){width=95%}
+![Ceratonia_siliqua](paneles/Ceratonia_siliqua.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Ceratonia_siliqua.pdf"></iframe>

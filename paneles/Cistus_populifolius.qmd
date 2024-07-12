@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cistus_populifolius](paneles/Cistus_populifolius.png){width=95%}
+![Cistus_populifolius](paneles/Cistus_populifolius.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Cistus_populifolius.pdf"></iframe>

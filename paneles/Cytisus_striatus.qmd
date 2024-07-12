@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cytisus_striatus](paneles/Cytisus_striatus.png){width=95%}
+![Cytisus_striatus](paneles/Cytisus_striatus.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Cytisus_striatus.pdf"></iframe>

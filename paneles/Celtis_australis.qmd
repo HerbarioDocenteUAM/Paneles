@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Celtis_australis](paneles/Celtis_australis.png){width=95%}
+![Celtis_australis](paneles/Celtis_australis.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Celtis_australis.pdf"></iframe>

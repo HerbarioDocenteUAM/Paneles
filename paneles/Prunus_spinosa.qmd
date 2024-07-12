@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Prunus_spinosa](paneles/Prunus_spinosa.png){width=95%}
+![Prunus_spinosa](paneles/Prunus_spinosa.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Prunus_spinosa.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Ulmus_minor](paneles/Ulmus_minor.png){width=95%}
+![Ulmus_minor](paneles/Ulmus_minor.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Ulmus_minor.pdf"></iframe>

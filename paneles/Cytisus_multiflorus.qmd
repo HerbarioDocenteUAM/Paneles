@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Cytisus_multiflorus](paneles/Cytisus_multiflorus.png){width=95%}
+![Cytisus_multiflorus](paneles/Cytisus_multiflorus.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Cytisus_multiflorus.pdf"></iframe>

@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Crataegus_monogyna](paneles/Crataegus_monogyna.png){width=95%}
+![Crataegus_monogyna](paneles/Crataegus_monogyna.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Crataegus_monogyna.pdf"></iframe>

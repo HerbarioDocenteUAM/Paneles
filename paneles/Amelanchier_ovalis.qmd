@@ -13,6 +13,6 @@ about:
 :::
 
 
-![Amelanchier_ovalis](paneles/Amelanchier_ovalis.png){width=95%}
+![Amelanchier_ovalis](paneles/Amelanchier_ovalis.JPG){width=95%}
 
 <iframe width="100%" height="600" src="fichas/Amelanchier_ovalis.pdf"></iframe>
